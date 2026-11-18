@@ -1,8 +1,0 @@
-{
-  "SpatialReference": "bids:images:sub-0013/anat/sub-0013_acq-LIBRET1w_rec-nobin_T1w.nii.gz",
-  "Description": "Exact evaluated background map for T1w nobin; no regeneration or resampling.",
-  "EvaluatedImage": "bids:images:sub-0013/anat/sub-0013_acq-LIBRET1w_rec-nobin_T1w.nii.gz",
-  "MaskRole": "background",
-  "GridMatchesEvaluatedImage": true,
-  "Type": "ROI"
-}
