@@ -1,0 +1,21 @@
+{
+  "SkullStripped": false,
+  "Description": "T2w TSE MRI volume.",
+  "Contrast": "T2w",
+  "ReconstructionRole": "tse",
+  "IQMMasks": {
+    "tissues": "bids:masks:sub-0044/anat/sub-0044_acq-TSE_desc-tissues_dseg.nii.gz",
+    "sides": "bids:masks:sub-0044/anat/sub-0044_acq-TSE_desc-sides_dseg.nii.gz",
+    "background": "bids:masks:sub-0044/anat/sub-0044_acq-TSE_desc-background_mask.nii.gz",
+    "orbitalcrop": "bids:masks:sub-0044/anat/sub-0044_acq-TSE_desc-orbitalcrop_mask.nii.gz",
+    "envelopeleft": "bids:masks:sub-0044/anat/sub-0044_acq-TSE_desc-envelopeleft_mask.nii.gz",
+    "enveloperight": "bids:masks:sub-0044/anat/sub-0044_acq-TSE_desc-enveloperight_mask.nii.gz",
+    "envelopebilateral": "bids:masks:sub-0044/anat/sub-0044_acq-TSE_desc-envelopebilateral_mask.nii.gz"
+  },
+  "AcquisitionSessionIdentity": "study-sha256:560fd4e800f2cd1d3d667d23bf13d78cbaadf966144ac68189059c73e275ad2d",
+  "SessionIdentityStatus": "verified from source DICOM StudyInstanceUID, represented as SHA-256",
+  "Manufacturer": "Siemens Healthineers",
+  "ManufacturersModelName": "MAGNETOM Prisma Fit",
+  "MRAcquisitionType": "2D",
+  "MagneticFieldStrength": 3
+}

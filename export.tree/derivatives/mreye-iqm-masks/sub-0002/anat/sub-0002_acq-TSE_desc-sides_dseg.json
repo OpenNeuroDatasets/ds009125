@@ -1,0 +1,12 @@
+{
+  "SpatialReference": "bids:images:sub-0002/anat/sub-0002_acq-TSE_T2w.nii.gz",
+  "Description": "Exact evaluated sides map for T2w tse; no regeneration or resampling.",
+  "EvaluatedImage": "bids:images:sub-0002/anat/sub-0002_acq-TSE_T2w.nii.gz",
+  "MaskRole": "sides",
+  "GridMatchesEvaluatedImage": true,
+  "LabelMap": {
+    "0": "outside",
+    "1": "left",
+    "2": "right"
+  }
+}
