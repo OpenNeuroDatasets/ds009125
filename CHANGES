@@ -1,4 +1,2 @@
-1.0.0 2026-11-17
-  - Initial release package: main-cohort and pilot MRI image products, ET data, masks, calibration arrays and sequence definitions.
-  - Includes 13 sanitized pilot DAT archives and available pilot VIBE DICOM references.
-  - Main-cohort DAT archives are not included; a later version is planned after header de-identification and verified recompression.
+1.0.0 2026-11-18
+  - the initial upload
