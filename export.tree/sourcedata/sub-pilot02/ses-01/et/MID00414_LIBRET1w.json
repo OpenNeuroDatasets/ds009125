@@ -1,0 +1,58 @@
+{
+  "Columns": [
+    "eye1_x_coordinate",
+    "eye1_y_coordinate",
+    "eye1_pupil_size",
+    "eye1_pupil_x_coordinate",
+    "eye1_pupil_y_coordinate",
+    "eye1_href_x_coordinate",
+    "eye1_href_y_coordinate",
+    "fast_href_x_velocity",
+    "screen_ppdeg_x_coordinate",
+    "screen_ppdeg_y_coordinate",
+    "timestamp",
+    "eye1_fixation",
+    "eye1_saccade",
+    "eye1_blink"
+  ],
+  "SamplingFrequency": 1000,
+  "StartTime": 6233037,
+  "StopTime": null,
+  "RecordedEye": "right",
+  "EyeTrackingMethod": "P-CR",
+  "CalibrationType": "HV5",
+  "ScreenAOIDefinition": [
+    "square",
+    [
+      0,
+      800,
+      0,
+      600
+    ]
+  ],
+  "Description": "Existing pilot eye-tracking export; measurement table, header/index columns and tracker time values are unchanged. Strict BIDS physio format and MRI-relative synchronization are not claimed.",
+  "TableColumns": [
+    "",
+    "eye1_x_coordinate",
+    "eye1_y_coordinate",
+    "eye1_pupil_size",
+    "eye1_pupil_x_coordinate",
+    "eye1_pupil_y_coordinate",
+    "eye1_href_x_coordinate",
+    "eye1_href_y_coordinate",
+    "fast_href_x_velocity",
+    "screen_ppdeg_x_coordinate",
+    "screen_ppdeg_y_coordinate",
+    "timestamp",
+    "eye1_fixation",
+    "eye1_saccade",
+    "eye1_blink"
+  ],
+  "SampleCount": 563652,
+  "TimestampReference": "Existing export timestamps; source StartTime and StopTime use legacy tracker milliseconds.",
+  "AssociatedEDF": "derivatives/mreye-et-originals/sub-pilot02/ses-01/MID00414_LIBRET1w.edf",
+  "SourceEDF": "derivatives/mreye-et-originals/sub-pilot02/ses-01/MID00414_LIBRET1w.edf",
+  "SourceEDFSHA256": "efa768f4e807e57871922385483fed3fe23c4d1bed6573cbddf4d5a6801b554e",
+  "AcquisitionMID": "MID00414",
+  "CompleteRecording": true
+}

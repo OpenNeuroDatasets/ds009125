@@ -1,0 +1,108 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Yiwei Jia
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Bastien Milani
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Jaime Barranco
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Berk Can Açikgöz
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Mauro Leidi
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Eleonora Fornari
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Jean-Baptiste Ledoux
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Helene Vitali
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Oscar Esteban
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Jessica A.M. Bastiaansen
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+      - name: Benedetta Franceschiello
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 11
+    creators:
+      - name: Yiwei Jia
+        nameType: Personal
+      - name: Bastien Milani
+        nameType: Personal
+      - name: Jaime Barranco
+        nameType: Personal
+      - name: Berk Can Açikgöz
+        nameType: Personal
+      - name: Mauro Leidi
+        nameType: Personal
+      - name: Eleonora Fornari
+        nameType: Personal
+      - name: Jean-Baptiste Ledoux
+        nameType: Personal
+      - name: Helene Vitali
+        nameType: Personal
+      - name: Oscar Esteban
+        nameType: Personal
+      - name: Jessica A.M. Bastiaansen
+        nameType: Personal
+      - name: Benedetta Franceschiello
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

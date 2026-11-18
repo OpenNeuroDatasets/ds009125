@@ -1,0 +1,115 @@
+{
+  "endpoint": "stimulus_direction",
+  "direction_source": "stimulus schedule; actual gaze and blinks not assessed",
+  "branch": "bin",
+  "gaze": "left",
+  "nifti": "sub-0038_acq-TRACK_rec-stimulus_desc-left_T1w.nii.gz",
+  "shape": [
+    480,
+    480,
+    480
+  ],
+  "spacing_mm": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "datatype": "float32",
+  "intensity": "unscaled complex magnitude",
+  "interpolation": "none",
+  "affine": [
+    [
+      0.5,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0.5,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0.5,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "sform_code": 2,
+  "qform_code": 0,
+  "coordinate_scope": "nominal native reconstruction axes; scanner orientation and origin not validated",
+  "source_geometry": {
+    "slice_prescription": {
+      "dThickness": 120,
+      "dPhaseFOV": 120,
+      "dReadoutFOV": 120,
+      "dInPlaneRot": 1.59313654122,
+      "sPosition": {
+        "dSag": 1.23878299574,
+        "dCor": -28.5701623402,
+        "dTra": -21.3790197602
+      },
+      "sNormal": {
+        "dSag": -0.038427,
+        "dCor": 0.082676,
+        "dTra": 0.995835
+      }
+    },
+    "first_mdh_position_quaternion": [
+      1.2387830018997192,
+      -28.570161819458008,
+      -21.37902069091797,
+      0.9989043474197388,
+      -0.041179362684488297,
+      -0.019661767408251762,
+      -0.010362621396780014
+    ],
+    "grid_size": [
+      480,
+      480,
+      480
+    ],
+    "FOV_mm": [
+      240,
+      240,
+      240
+    ],
+    "voxel_mm": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "array_orientation": "MONALISA nominal Pulseq axes; no display reorientation applied",
+    "C_alignment": {
+      "scope": "Reviewed shared-C array orientation and physical channel mapping; fine registration not established"
+    }
+  },
+  "frame_quality": {
+    "gaze": "left",
+    "source_readouts": "8562",
+    "retained_readouts": "8562",
+    "diagnostic_only": "0",
+    "R4": "3.46848364308313",
+    "quality_label": "low R",
+    "reconstruction_status": "RECONSTRUCTED",
+    "skip_reason": "",
+    "minimum_readouts": "1000"
+  },
+  "SelectionMethod": "stimulus schedule",
+  "SkullStripped": false,
+  "Description": "Existing MR-Eye Track full-volume unscaled magnitude reconstruction with stimulus schedule; axis restoration only, no interpolation or skull stripping. Scanner orientation and origin remain unvalidated.",
+  "SupportingRecords": [
+    "derivatives/mreyetrack-binning/sub-0038/stimulus/bin/acquisition_metadata.json",
+    "derivatives/mreyetrack-binning/sub-0038/stimulus/bin/frames.tsv",
+    "derivatives/mreyetrack-binning/sub-0038/stimulus/bin/eMask_effective.mat",
+    "derivatives/mreyetrack-binning/sub-0038/stimulus/bin/geometry.json"
+  ]
+}

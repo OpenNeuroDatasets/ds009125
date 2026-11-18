@@ -1,0 +1,8 @@
+{
+  "SpatialReference": "bids:images:sub-0008/anat/sub-0008_acq-VIBE_T1w.nii.gz",
+  "Description": "Exact evaluated background map for T1w vibe; no regeneration or resampling.",
+  "EvaluatedImage": "bids:images:sub-0008/anat/sub-0008_acq-VIBE_T1w.nii.gz",
+  "MaskRole": "background",
+  "GridMatchesEvaluatedImage": true,
+  "Type": "ROI"
+}

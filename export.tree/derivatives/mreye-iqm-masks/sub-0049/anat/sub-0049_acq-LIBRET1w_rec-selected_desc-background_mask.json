@@ -1,0 +1,8 @@
+{
+  "SpatialReference": "bids:images:sub-0049/anat/sub-0049_acq-LIBRET1w_T1w.nii.gz",
+  "Description": "Exact evaluated background map for T1w selected; no regeneration or resampling.",
+  "EvaluatedImage": "bids:images:sub-0049/anat/sub-0049_acq-LIBRET1w_T1w.nii.gz",
+  "MaskRole": "background",
+  "GridMatchesEvaluatedImage": true,
+  "Type": "ROI"
+}

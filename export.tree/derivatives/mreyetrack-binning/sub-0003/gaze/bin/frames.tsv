@@ -1,0 +1,6 @@
+gaze	source_readouts	retained_readouts	diagnostic_only	R4	quality_label
+up	13764	12305	0	2.52184914517675	low R
+down	14761	13187	0	2.37484607326904	pass
+left	14711	13162	0	2.38580663619119	pass
+right	14225	12336	0	2.51574301162312	low R
+center	3302	985	1	27.6732457226678	diagnostic_only
