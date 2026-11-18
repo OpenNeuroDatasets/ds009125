@@ -1,0 +1,8 @@
+{
+  "SpatialReference": "bids:images:sub-0016/anat/sub-0016_acq-VIBE_T1w.nii.gz",
+  "Description": "Exact evaluated orbitalcrop map for T1w vibe; no regeneration or resampling.",
+  "EvaluatedImage": "bids:images:sub-0016/anat/sub-0016_acq-VIBE_T1w.nii.gz",
+  "MaskRole": "orbitalcrop",
+  "GridMatchesEvaluatedImage": true,
+  "Type": "ROI"
+}

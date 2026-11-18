@@ -1,0 +1,60 @@
+{
+  "files": [
+    {
+      "name": "yj_seq100_t1w_libre_pre_TR6.2ms_TE3.6ms_swap1_FA6_Traj1_nSeg44_nShot191_Fid0_mreye_2p0.seq",
+      "path": "sourcedata/pulseq/yj_seq100_t1w_libre_pre_TR6.2ms_TE3.6ms_swap1_FA6_Traj1_nSeg44_nShot191_Fid0_mreye_2p0.seq",
+      "role": "LIBRE prescan",
+      "bytes": 4174248,
+      "sha256": "acef13c941ab5b005e7cc34baefd7eceec2100f5f42a3568e9202300b636db20",
+      "declaredMD5": "359dff3e7152df8f789c5096349f3167"
+    },
+    {
+      "name": "yj_seq104_t1w_libre_main_TR8.0ms_TE3.6ms_swap1_FA6_Traj1_nSeg44_nShot1055_Fid0_mreye_2p0_gdsp.seq",
+      "path": "sourcedata/pulseq/yj_seq104_t1w_libre_main_TR8.0ms_TE3.6ms_swap1_FA6_Traj1_nSeg44_nShot1055_Fid0_mreye_2p0_gdsp.seq",
+      "role": "LIBRE T1w main",
+      "bytes": 23715024,
+      "sha256": "454ff68f4a7fa46f5743d763b3e0347af26c78878be002e796c57bbe74259855",
+      "declaredMD5": "1a926458f325abb00d0b97c8a56ded67"
+    },
+    {
+      "name": "yj_seq202_t1w_libre_main_TR8.0ms_TE3.6ms_swap1_FA6_RF2_mreye_track_trajPTP_44_1872_gdsp.seq",
+      "path": "sourcedata/pulseq/yj_seq202_t1w_libre_main_TR8.0ms_TE3.6ms_swap1_FA6_RF2_mreye_track_trajPTP_44_1872_gdsp.seq",
+      "role": "MR-Eye-Track main",
+      "bytes": 41916357,
+      "sha256": "06c2e7ee93b017b15e49276def91e3572739551ec65e54c0d61dc55922762122",
+      "declaredMD5": "300fef9d63294e100cf54e655f22564f"
+    },
+    {
+      "name": "yj_seq608_t2w_libre_main_TR8.0ms_TE3.6ms_swap1_FA6_Traj1_nSeg44_nShot1000_Fid0_t50_crusher_646p92.seq",
+      "path": "sourcedata/pulseq/yj_seq608_t2w_libre_main_TR8.0ms_TE3.6ms_swap1_FA6_Traj1_nSeg44_nShot1000_Fid0_t50_crusher_646p92.seq",
+      "role": "LIBRE T2w main",
+      "bytes": 23262493,
+      "sha256": "3a5d005f9379975d4da1fde4e6ed310370183dc71996e1b43bfbfc34fd1b63ff",
+      "declaredMD5": "3c18084aec583b7ac3d5c7664ee99327"
+    },
+    {
+      "name": "pilot_seq603_b34cd4b0.seq",
+      "path": "sourcedata/pulseq/pilot_seq603_b34cd4b0.seq",
+      "role": "Pilot T2-preparation variant seq603",
+      "bytes": 11652510,
+      "sha256": "b34cd4b0a1c96c985988534c051572246e9ec1cf49418971300b2b8b63bda818",
+      "declaredMD5": "de9b643a567ebff3ac26cd8bbb805fa7"
+    },
+    {
+      "name": "pilot_seq606_d8bfecea.seq",
+      "path": "sourcedata/pulseq/pilot_seq606_d8bfecea.seq",
+      "role": "Pilot T2-preparation variant seq606",
+      "bytes": 11490088,
+      "sha256": "d8bfecea5ddfe86e2a93ba236677f87045e2c35fff12827cddfc985f61e2cbe4",
+      "declaredMD5": "55e39e7737a122a143c0a45f9b90dbbc"
+    },
+    {
+      "name": "pilot_seq607_9e4fb342.seq",
+      "path": "sourcedata/pulseq/pilot_seq607_9e4fb342.seq",
+      "role": "Pilot T2-preparation variant seq607",
+      "bytes": 9958076,
+      "sha256": "9e4fb34261da56135fa7a7230a6ae728a5c3805a115844ceb533c2c03b84d019",
+      "declaredMD5": "e699c9ec2fe8cebee16b13920e842f42"
+    }
+  ]
+}

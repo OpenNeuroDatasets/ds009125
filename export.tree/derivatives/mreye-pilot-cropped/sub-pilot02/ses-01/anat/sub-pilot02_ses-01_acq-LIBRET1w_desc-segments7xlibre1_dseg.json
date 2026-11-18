@@ -1,0 +1,35 @@
+{
+  "Description": "existing image-bound pilot mask; existing voxel values, array dimensions and spatial affine are preserved. Source variant labels have not been independently revalidated.",
+  "AcquisitionMID": "MID00414",
+  "Shape": [
+    211,
+    137,
+    90
+  ],
+  "VoxelSize_mm": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "Sources": [
+    "bids:images:sourcedata/sub-pilot02/ses-01/rawdata/meas_MID00414_LIBRET1w.dat.7z"
+  ],
+  "SpatialReference": "Existing source NIfTI affine; no new registration, cropping or orientation validation was performed.",
+  "LabelValues": [
+    0.0,
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    6.0,
+    7.0,
+    8.0,
+    9.0,
+    10.0,
+    11.0,
+    12.0,
+    13.0
+  ],
+  "LabelMeaning": "Original stored mask/segmentation labels; anatomical label names were not documented in the supplied pilot folder."
+}

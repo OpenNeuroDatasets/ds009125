@@ -1,0 +1,114 @@
+{
+  "branch": "bin",
+  "gaze": "center",
+  "nifti": "sub-0029_acq-TRACK_rec-gaze_desc-center_T1w.nii.gz",
+  "shape": [
+    480,
+    480,
+    480
+  ],
+  "spacing_mm": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "datatype": "float32",
+  "intensity": "unscaled complex magnitude",
+  "interpolation": "none",
+  "affine": [
+    [
+      0.5,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0.5,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0.5,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "sform_code": 2,
+  "qform_code": 0,
+  "coordinate_scope": "nominal native reconstruction axes; scanner orientation and origin not validated",
+  "source_geometry": {
+    "slice_prescription": {
+      "dThickness": 120,
+      "dPhaseFOV": 120,
+      "dReadoutFOV": 120,
+      "dInPlaneRot": 1.60517931306,
+      "sPosition": {
+        "dSag": -4.2191952724,
+        "dCor": -37.382510108,
+        "dTra": -8.59750589823
+      },
+      "sNormal": {
+        "dSag": 0.01691,
+        "dCor": 0.004291,
+        "dTra": 0.999848
+      }
+    },
+    "first_mdh_position_quaternion": [
+      -4.219195365905762,
+      -37.382511138916016,
+      -8.597505569458008,
+      0.999813973903656,
+      -0.002290769712999463,
+      0.008417146280407906,
+      -0.01720813289284706
+    ],
+    "grid_size": [
+      480,
+      480,
+      480
+    ],
+    "FOV_mm": [
+      240,
+      240,
+      240
+    ],
+    "voxel_mm": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "array_orientation": "MONALISA nominal Pulseq axes; no display reorientation applied",
+    "C_alignment": {
+      "scope": "Array orientation and physical channel mapping checked; fine registration not established",
+      "header_resampling_applied": false
+    }
+  },
+  "frame_quality": {
+    "gaze": "center",
+    "source_readouts": "3849",
+    "retained_readouts": "2702",
+    "diagnostic_only": "1",
+    "R4": "10.7198785310077",
+    "quality_label": "diagnostic_only_above_R4_10",
+    "reconstruction_status": "RECONSTRUCTED",
+    "skip_reason": "",
+    "minimum_readouts": "1000"
+  },
+  "SelectionMethod": "measured-gaze binning",
+  "SkullStripped": false,
+  "Description": "Existing MR-Eye Track full-volume unscaled magnitude reconstruction with measured-gaze binning; axis restoration only, no interpolation or skull stripping. Scanner orientation and origin remain unvalidated.",
+  "SupportingRecords": [
+    "derivatives/mreyetrack-binning/sub-0029/gaze/bin/acquisition_metadata.json",
+    "derivatives/mreyetrack-binning/sub-0029/gaze/bin/frames.tsv",
+    "derivatives/mreyetrack-binning/sub-0029/gaze/bin/eMask_effective.mat",
+    "derivatives/mreyetrack-binning/sub-0029/gaze/bin/geometry.json"
+  ]
+}

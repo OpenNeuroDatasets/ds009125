@@ -1,0 +1,386 @@
+{
+  "CalibrationCount": 1,
+  "CalibrationLog": [
+    [
+      10847213,
+      ">>>>>>> CALIBRATION (HV5,P-CR) FOR RIGHT: <<<<<<<<<"
+    ],
+    [
+      10847213,
+      "Calibration points:"
+    ],
+    [
+      10847213,
+      "-39.4, -53.8         0,      0"
+    ],
+    [
+      10847213,
+      "-48.4, -63.6         0,  -1726"
+    ],
+    [
+      10847213,
+      "-41.2, -40.7         0,   1726"
+    ],
+    [
+      10847213,
+      "-62.3, -54.5     -2439,      0"
+    ],
+    [
+      10847213,
+      "-20.8, -54.0      2439,      0"
+    ],
+    [
+      10847213,
+      "eye check box: (L,R,T,B)\n\t  -66   -17   -66   -38"
+    ],
+    [
+      10847213,
+      "href cal range: (L,R,T,B)\n\t-3659  3659 -2588  2588"
+    ],
+    [
+      10847214,
+      "Cal coeff:(X=a+bx+cy+dxx+eyy,Y=f+gx+goaly+ixx+jyy)\n  -4.5136e-07  120.59 -54.069  0.54111  5.3803 \n  -3.3852e-07 -1.1255  158.51  0.15202 -2.072"
+    ],
+    [
+      10847214,
+      "Prenormalize: offx, offy = -39.363 -53.823"
+    ],
+    [
+      10847214,
+      "Gains: cx:161.725 lx:134.486 rx:189.181"
+    ],
+    [
+      10847214,
+      "Gains: cy:553.376 ty:248.823 by:545.295"
+    ],
+    [
+      10847214,
+      "Resolution (upd) at screen center: X=1.6, Y=0.5"
+    ],
+    [
+      10847214,
+      "Gain Change Proportion: X: 0.407 Y: 1.191"
+    ],
+    [
+      10847214,
+      "Gain Ratio (Gy/Gx) = 3.422"
+    ],
+    [
+      10847214,
+      "Cross-Gain Ratios: X=0.413, Y=0.008"
+    ],
+    [
+      10847214,
+      "PCR gain ratio(x,y) = 2.429, 2.278"
+    ],
+    [
+      10847214,
+      "CR gain match(x,y) = 1.020, 1.020"
+    ],
+    [
+      10847214,
+      "Slip rotation correction OFF"
+    ],
+    [
+      10847216,
+      "CALIBRATION HV5 R RIGHT   GOOD"
+    ],
+    [
+      10866571,
+      "VALIDATION R ABORTED"
+    ],
+    [
+      10877294,
+      ">>>>>>> CALIBRATION (HV5,P-CR) FOR RIGHT: <<<<<<<<<"
+    ],
+    [
+      10877294,
+      "Calibration points:"
+    ],
+    [
+      10877294,
+      "-41.5, -57.6         0,      0"
+    ],
+    [
+      10877294,
+      "-38.7, -70.2         0,  -1726"
+    ],
+    [
+      10877294,
+      "-39.3, -43.0         0,   1726"
+    ],
+    [
+      10877294,
+      "-60.9, -57.2     -2439,      0"
+    ],
+    [
+      10877294,
+      "-15.6, -53.7      2439,      0"
+    ],
+    [
+      10877294,
+      "eye check box: (L,R,T,B)\n\t  -65   -11   -73   -40"
+    ],
+    [
+      10877294,
+      "href cal range: (L,R,T,B)\n\t-3659  3659 -2588  2588"
+    ],
+    [
+      10877294,
+      "Cal coeff:(X=a+bx+cy+dxx+eyy,Y=f+gx+goaly+ixx+jyy)\n  -4.5136e-07  112.15  5.7546 -0.68653 -1.5111 \n  -3.3852e-07 -6.5777  127.62 -0.48027 -0.58586"
+    ],
+    [
+      10877294,
+      "Prenormalize: offx, offy = -41.491 -57.612"
+    ],
+    [
+      10877294,
+      "Gains: cx:70.773 lx:90.627 rx:77.156"
+    ],
+    [
+      10877294,
+      "Gains: cy:182.498 ty:122.009 by:183.065"
+    ],
+    [
+      10877294,
+      "Resolution (upd) at screen center: X=3.7, Y=1.4"
+    ],
+    [
+      10877294,
+      "Gain Change Proportion: X: 0.175 Y: 0.500"
+    ],
+    [
+      10877295,
+      "Gain Ratio (Gy/Gx) = 2.579"
+    ],
+    [
+      10877295,
+      "Cross-Gain Ratios: X=0.045, Y=0.058"
+    ],
+    [
+      10877295,
+      "PCR gain ratio(x,y) = 2.437, 2.341"
+    ],
+    [
+      10877295,
+      "CR gain match(x,y) = 1.020, 1.020"
+    ],
+    [
+      10877295,
+      "Slip rotation correction OFF"
+    ],
+    [
+      10877296,
+      "CALIBRATION HV5 R RIGHT   GOOD"
+    ],
+    [
+      10888686,
+      "VALIDATION HV5 R RIGHT GOOD ERROR 0.80 avg. 0.96 max  OFFSET 0.65 deg. 10.1,22.4 pix."
+    ]
+  ],
+  "Columns": [
+    "eye1_x_coordinate",
+    "eye1_y_coordinate",
+    "eye1_pupil_size",
+    "eye1_pupil_x_coordinate",
+    "eye1_pupil_y_coordinate",
+    "eye1_href_x_coordinate",
+    "eye1_href_y_coordinate",
+    "eye1_x_velocity",
+    "eye1_href_x_velocity",
+    "eye1_raw_x_velocity",
+    "fast_href_x_velocity",
+    "screen_ppdeg_x_coordinate",
+    "screen_ppdeg_y_coordinate",
+    "timestamp",
+    "eye1_fixation",
+    "eye1_saccade",
+    "eye1_blink"
+  ],
+  "CornealReflectionThreshold": [
+    203
+  ],
+  "EyeTrackingMethod": "P-CR",
+  "LoggedMessages": [
+    [
+      10894147,
+      "NO Reply is disabled for function eyelink_cal_result"
+    ],
+    [
+      10925636,
+      "Key s trigger response"
+    ],
+    [
+      10925637,
+      "Hello tracker record"
+    ],
+    [
+      10925642,
+      "ELCLCFG TOWER"
+    ],
+    [
+      10926139,
+      "Bye tracker record"
+    ],
+    [
+      10926141,
+      "T2w_LIBRE stimuli start"
+    ],
+    [
+      10926141,
+      "Stimuli after 0 seconds..."
+    ],
+    [
+      11026135,
+      "Stimuli after 100 seconds..."
+    ],
+    [
+      11126138,
+      "Stimuli after 200 seconds..."
+    ],
+    [
+      11226139,
+      "Stimuli after 300 seconds..."
+    ],
+    [
+      11326141,
+      "Stimuli after 400 seconds..."
+    ],
+    [
+      11426145,
+      "Stimuli after 500 seconds..."
+    ],
+    [
+      11526161,
+      "Stimuli after 600 seconds..."
+    ],
+    [
+      11626163,
+      "Stimuli after 700 seconds..."
+    ],
+    [
+      11726165,
+      "Stimuli after 800 seconds..."
+    ],
+    [
+      11826167,
+      "Stimuli after 900 seconds..."
+    ]
+  ],
+  "PupilFitMethod": "ellipse",
+  "PupilFitMethodNumberOfParameters": 5,
+  "PupilFitParameters": [
+    [
+      1.01,
+      4.0
+    ],
+    [
+      0.15,
+      0.05
+    ],
+    [
+      0.65,
+      0.65
+    ],
+    [
+      0.0,
+      0.0,
+      0.3
+    ]
+  ],
+  "PupilThreshold": [
+    80
+  ],
+  "RecordedEye": "right",
+  "SamplingFrequency": 1000,
+  "ScreenAOIDefinition": [
+    "square",
+    [
+      0,
+      800,
+      0,
+      600
+    ]
+  ],
+  "StartTime": 10925642,
+  "StopTime": null,
+  "ValidationErrors": [
+    [
+      "eye1",
+      0.89,
+      [
+        25.1,
+        22.9
+      ]
+    ],
+    [
+      "eye1",
+      0.64,
+      [
+        -15.3,
+        19.0
+      ]
+    ],
+    [
+      "eye1",
+      0.73,
+      [
+        -16.6,
+        22.3
+      ]
+    ],
+    [
+      "eye1",
+      0.96,
+      [
+        -6.0,
+        35.9
+      ]
+    ],
+    [
+      "eye1",
+      0.49,
+      [
+        13.7,
+        12.8
+      ]
+    ]
+  ],
+  "ValidationPosition": [
+    [
+      "eye1",
+      [
+        400,
+        300
+      ]
+    ],
+    [
+      "eye1",
+      [
+        400,
+        51
+      ]
+    ],
+    [
+      "eye1",
+      [
+        400,
+        549
+      ]
+    ],
+    [
+      "eye1",
+      [
+        48,
+        300
+      ]
+    ],
+    [
+      "eye1",
+      [
+        752,
+        300
+      ]
+    ]
+  ]
+}

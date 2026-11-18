@@ -1,0 +1,6 @@
+{
+  "participant_id": {
+    "Description": "Coded main-cohort or pilot participant identifier; pilot visits are represented by session folders."
+  },
+  "Description": "Membership of this component: 50 main-cohort and two pilot-only participants."
+}

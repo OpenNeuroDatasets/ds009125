@@ -1,0 +1,13 @@
+{
+  "Description": "millisecond ET selection mask",
+  "Variable": "array",
+  "Shape": [
+    1,
+    371818
+  ],
+  "MATLABClass": "double",
+  "SpatialAxes": "Stored MATLAB array order; no array reorientation applied.",
+  "AcquisitionMID": "MID00359",
+  "IndexMeaning": "Existing millisecond-based selection mask; timing origin and alignment were not recomputed.",
+  "SampleInterval_ms": 1
+}

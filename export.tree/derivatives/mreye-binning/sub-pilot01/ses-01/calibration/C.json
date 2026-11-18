@@ -1,0 +1,13 @@
+{
+  "Description": "coil sensitivity coefficients",
+  "Variable": "C",
+  "Shape": [
+    48,
+    48,
+    48,
+    52
+  ],
+  "MATLABClass": "single",
+  "SpatialAxes": "Stored MATLAB array order; no array reorientation applied.",
+  "AcquisitionMID": "MID00252"
+}

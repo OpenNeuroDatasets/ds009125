@@ -1,0 +1,373 @@
+{
+  "CalibrationCount": 1,
+  "CalibrationLog": [
+    [
+      11173563,
+      ">>>>>>> CALIBRATION (HV5,P-CR) FOR RIGHT: <<<<<<<<<"
+    ],
+    [
+      11173563,
+      "Calibration points:"
+    ],
+    [
+      11173563,
+      "-38.8, -45.2         0,      0"
+    ],
+    [
+      11173563,
+      "-40.4, -55.1         0,  -1726"
+    ],
+    [
+      11173563,
+      "-41.7, -35.0         0,   1726"
+    ],
+    [
+      11173563,
+      "-59.4, -45.2     -2439,      0"
+    ],
+    [
+      11173563,
+      "-18.7, -44.5      2439,      0"
+    ],
+    [
+      11173564,
+      "eye check box: (L,R,T,B)\n\t  -63   -15   -57   -33"
+    ],
+    [
+      11173564,
+      "href cal range: (L,R,T,B)\n\t-3659  3659 -2588  2588"
+    ],
+    [
+      11173564,
+      "Cal coeff:(X=a+bx+cy+dxx+eyy,Y=f+gx+goaly+ixx+jyy)\n  -4.5136e-07  119.95  6.9282  0.057764  2.6689 \n  -3.3852e-07 -2.7458  171.5 -0.12959 -0.29745"
+    ],
+    [
+      11173564,
+      "Prenormalize: offx, offy = -38.834 -45.166"
+    ],
+    [
+      11173564,
+      "Gains: cx:125.130 lx:121.824 rx:128.722"
+    ],
+    [
+      11173564,
+      "Gains: cy:289.884 ty:218.083 by:315.278"
+    ],
+    [
+      11173564,
+      "Resolution (upd) at screen center: X=2.1, Y=0.9"
+    ],
+    [
+      11173564,
+      "Gain Change Proportion: X: 0.057 Y: 0.446"
+    ],
+    [
+      11173564,
+      "Gain Ratio (Gy/Gx) = 2.317"
+    ],
+    [
+      11173564,
+      "Cross-Gain Ratios: X=0.059, Y=0.016"
+    ],
+    [
+      11173564,
+      "PCR gain ratio(x,y) = 2.435, 2.060"
+    ],
+    [
+      11173564,
+      "CR gain match(x,y) = 1.020, 1.020"
+    ],
+    [
+      11173564,
+      "Slip rotation correction OFF"
+    ],
+    [
+      11173566,
+      "CALIBRATION HV5 R RIGHT   GOOD"
+    ],
+    [
+      11181896,
+      "VALIDATION HV5 R RIGHT GOOD ERROR 0.71 avg. 1.40 max  OFFSET 0.22 deg. -5.3,6.6 pix."
+    ]
+  ],
+  "Columns": [
+    "eye1_x_coordinate",
+    "eye1_y_coordinate",
+    "eye1_pupil_size",
+    "eye1_pupil_x_coordinate",
+    "eye1_pupil_y_coordinate",
+    "eye1_href_x_coordinate",
+    "eye1_href_y_coordinate",
+    "fast_x_velocity",
+    "fast_href_x_velocity",
+    "fast_raw_x_velocity",
+    "screen_ppdeg_x_coordinate",
+    "screen_ppdeg_y_coordinate",
+    "timestamp",
+    "eye1_fixation",
+    "eye1_saccade",
+    "eye1_blink"
+  ],
+  "CornealReflectionThreshold": [
+    191
+  ],
+  "EyeTrackingMethod": "P-CR",
+  "LoggedMessages": [
+    [
+      11190286,
+      "NO Reply is disabled for function eyelink_cal_result"
+    ],
+    [
+      11716968,
+      "Key s trigger response"
+    ],
+    [
+      11716968,
+      "Hello tracker record"
+    ],
+    [
+      11716975,
+      "ELCLCFG TOWER"
+    ],
+    [
+      11717471,
+      "Bye tracker record"
+    ],
+    [
+      11717473,
+      "T1w_LIBRE stimuli start"
+    ],
+    [
+      11717474,
+      "Stimuli after 0 seconds..."
+    ],
+    [
+      11817465,
+      "Stimuli after 100 seconds..."
+    ],
+    [
+      11917467,
+      "Stimuli after 200 seconds..."
+    ],
+    [
+      12017469,
+      "Stimuli after 300 seconds..."
+    ],
+    [
+      12117488,
+      "Stimuli after 400 seconds..."
+    ],
+    [
+      12217491,
+      "Stimuli after 500 seconds..."
+    ],
+    [
+      12317491,
+      "Stimuli after 600 seconds..."
+    ]
+  ],
+  "PupilFitMethod": "ellipse",
+  "PupilFitMethodNumberOfParameters": 5,
+  "PupilFitParameters": [
+    [
+      1.01,
+      4
+    ],
+    [
+      0.15,
+      0.05
+    ],
+    [
+      0.65,
+      0.65
+    ],
+    [
+      0,
+      0,
+      0.3
+    ]
+  ],
+  "PupilThreshold": [
+    79
+  ],
+  "RecordedEye": "right",
+  "S2StableMask": {
+    "T_idx": 1,
+    "criteria_ratio": 0.3,
+    "distance_only_preserved_samples_before_offset": 317786,
+    "distance_only_used_for_qc_only": true,
+    "event_overlap_summary": {
+      "counts": {
+        "blink": 20999,
+        "fixation": 347148,
+        "fixation_and_blink": 0,
+        "fixation_and_saccade": 0,
+        "fixation_and_saccade_and_blink": 0,
+        "non_fixation": 24662,
+        "nonfix_and_blink": 20999,
+        "nonfix_and_saccade": 24655,
+        "nonfix_explained_by_saccade_or_blink": 24655,
+        "nonfix_not_saccade_or_blink": 7,
+        "saccade": 24655,
+        "saccade_and_blink": 20999,
+        "samples": 371810
+      },
+      "ratios": {
+        "blink_fraction_of_all": 0.05647777090449423,
+        "blink_overlaps_saccade_fraction_of_blink": 1,
+        "fixation_overlaps_blink_fraction_of_blink": 0,
+        "fixation_overlaps_saccade_fraction_of_saccade": 0,
+        "nonfix_explained_by_saccade_or_blink_fraction_of_nonfix": 0.9997161625172329,
+        "nonfix_fraction_of_all": 0.06632957693445576,
+        "nonfix_not_saccade_or_blink_fraction_of_nonfix": 0.00028383748276700996,
+        "saccade_fraction_of_all": 0.06631075011430569,
+        "saccade_overlaps_blink_fraction_of_saccade": 0.8517136483471912
+      },
+      "warnings": []
+    },
+    "final_mask_method": "distance_and_low_motion",
+    "final_preserved_ratio_after_offset": 0.7765567470018854,
+    "final_preserved_ratio_before_offset": 0.7765713670960974,
+    "final_preserved_samples_before_offset": 288737,
+    "input_sanity": {
+      "coordinate_nan_ratio": {
+        "x_coordinate": 0.041556452287632176,
+        "y_coordinate": 0.043009351328043045
+      },
+      "duplicate_timestamps": 0,
+      "event_coverage_ratio": {
+        "blink": 0.06009338456290747,
+        "fixation": 0.9255771371935718,
+        "saccade": 0.07440999105413215
+      },
+      "input_format": "headered_with_legacy_index_column",
+      "metadata_columns_count": 16,
+      "sample_count": 621516,
+      "sampling_frequency": 1000,
+      "timestamp_end": 12338491,
+      "timestamp_monotonic_increasing": true,
+      "timestamp_start": 11716976
+    },
+    "libre_samples": 371810,
+    "mask_samples_after_offset": 371817,
+    "mask_samples_before_offset": 371810,
+    "mode": "T1",
+    "motion_percentile": 90,
+    "motion_qc": {
+      "combined_over_distance_preserved_ratio": 0.9085894281057063,
+      "combined_preserved_ratio": 0.7765713670960974,
+      "combined_preserved_samples": 288737,
+      "distance_preserved_ratio": 0.8546999811731798,
+      "distance_preserved_removed_by_motion_ratio": 0.09141057189429369,
+      "distance_preserved_samples": 317786,
+      "distance_vs_motion_diff_ratio": 0.07812861407708238,
+      "distance_vs_motion_diff_samples": 29049,
+      "enabled_for_main_mask": true,
+      "low_motion_samples": 313732,
+      "method": "rolling median of frame-to-frame gaze displacement in pixels",
+      "motion_threshold_px": 1.6643654363989877,
+      "threshold_percentile": 90,
+      "window_ms": 15,
+      "window_samples": 15
+    },
+    "motion_window_samples": 15,
+    "offset_ms": 7,
+    "source_tsv": "MID43114_fixation_dots_T1weighted.tsv.gz",
+    "subject_idx": "MID43114",
+    "twix_duration_ms": 371817
+  },
+  "SamplingFrequency": 1000,
+  "ScreenAOIDefinition": [
+    "square",
+    [
+      0,
+      800,
+      0,
+      600
+    ]
+  ],
+  "StartTime": 11716975,
+  "StartTimeSecondsFromFirstSample": -0.001,
+  "StartTimestamp": 11716975,
+  "StopTime": null,
+  "StopTimestamp": null,
+  "ValidationErrors": [
+    [
+      "eye1",
+      0.39,
+      [
+        -14.4,
+        4.1
+      ]
+    ],
+    [
+      "eye1",
+      1.4,
+      [
+        10.3,
+        52.4
+      ]
+    ],
+    [
+      "eye1",
+      0.63,
+      [
+        13.2,
+        -20.2
+      ]
+    ],
+    [
+      "eye1",
+      0.97,
+      [
+        -36.9,
+        0.9
+      ]
+    ],
+    [
+      "eye1",
+      0.44,
+      [
+        -5.6,
+        -15.7
+      ]
+    ]
+  ],
+  "ValidationPosition": [
+    [
+      "eye1",
+      [
+        400,
+        300
+      ]
+    ],
+    [
+      "eye1",
+      [
+        400,
+        51
+      ]
+    ],
+    [
+      "eye1",
+      [
+        400,
+        549
+      ]
+    ],
+    [
+      "eye1",
+      [
+        48,
+        300
+      ]
+    ],
+    [
+      "eye1",
+      [
+        752,
+        300
+      ]
+    ]
+  ]
+}
