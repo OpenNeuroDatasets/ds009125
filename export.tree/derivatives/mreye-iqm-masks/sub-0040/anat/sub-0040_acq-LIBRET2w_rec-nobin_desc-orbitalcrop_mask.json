@@ -1,8 +1,0 @@
-{
-  "SpatialReference": "bids:images:sub-0040/anat/sub-0040_acq-LIBRET2w_rec-nobin_T2w.nii.gz",
-  "Description": "Exact evaluated orbitalcrop map for T2w nobin; no regeneration or resampling.",
-  "EvaluatedImage": "bids:images:sub-0040/anat/sub-0040_acq-LIBRET2w_rec-nobin_T2w.nii.gz",
-  "MaskRole": "orbitalcrop",
-  "GridMatchesEvaluatedImage": true,
-  "Type": "ROI"
-}

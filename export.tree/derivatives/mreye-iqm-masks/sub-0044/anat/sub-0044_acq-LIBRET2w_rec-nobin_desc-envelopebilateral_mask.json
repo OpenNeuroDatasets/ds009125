@@ -1,8 +1,0 @@
-{
-  "SpatialReference": "bids:images:sub-0044/anat/sub-0044_acq-LIBRET2w_rec-nobin_T2w.nii.gz",
-  "Description": "Exact evaluated envelopebilateral map for T2w nobin; no regeneration or resampling.",
-  "EvaluatedImage": "bids:images:sub-0044/anat/sub-0044_acq-LIBRET2w_rec-nobin_T2w.nii.gz",
-  "MaskRole": "envelopebilateral",
-  "GridMatchesEvaluatedImage": true,
-  "Type": "ROI"
-}
