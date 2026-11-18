@@ -1,0 +1,46 @@
+{
+  "slice_prescription": {
+    "dThickness": 120,
+    "dPhaseFOV": 120,
+    "dReadoutFOV": 120,
+    "dInPlaneRot": 1.59313654122,
+    "sPosition": {
+      "dSag": 1.23878299574,
+      "dCor": -28.5701623402,
+      "dTra": -21.3790197602
+    },
+    "sNormal": {
+      "dSag": -0.038427,
+      "dCor": 0.082676,
+      "dTra": 0.995835
+    }
+  },
+  "first_mdh_position_quaternion": [
+    1.2387830018997192,
+    -28.570161819458008,
+    -21.37902069091797,
+    0.9989043474197388,
+    -0.041179362684488297,
+    -0.019661767408251762,
+    -0.010362621396780014
+  ],
+  "grid_size": [
+    480,
+    480,
+    480
+  ],
+  "FOV_mm": [
+    240,
+    240,
+    240
+  ],
+  "voxel_mm": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "array_orientation": "MONALISA nominal Pulseq axes; no display reorientation applied",
+  "C_alignment": {
+    "scope": "Reviewed shared-C array orientation and physical channel mapping; fine registration not established"
+  }
+}

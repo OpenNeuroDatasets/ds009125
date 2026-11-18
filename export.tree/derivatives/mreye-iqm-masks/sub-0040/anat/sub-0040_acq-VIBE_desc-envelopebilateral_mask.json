@@ -1,0 +1,8 @@
+{
+  "SpatialReference": "bids:images:sub-0040/anat/sub-0040_acq-VIBE_T1w.nii.gz",
+  "Description": "Exact evaluated envelopebilateral map for T1w vibe; no regeneration or resampling.",
+  "EvaluatedImage": "bids:images:sub-0040/anat/sub-0040_acq-VIBE_T1w.nii.gz",
+  "MaskRole": "envelopebilateral",
+  "GridMatchesEvaluatedImage": true,
+  "Type": "ROI"
+}

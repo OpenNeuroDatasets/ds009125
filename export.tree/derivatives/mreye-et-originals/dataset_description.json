@@ -1,0 +1,36 @@
+{
+  "Name": "MR-Eye 2.0 EDF release copies — main and pilot cohorts",
+  "BIDSVersion": "1.11.2",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "MR-Eye EDF release preparation",
+      "Description": "Header dates are neutralized; recorded sample and event records are preserved."
+    }
+  ],
+  "Description": "EyeLink EDF release copies associated with the 153 primary ET recordings. Header dates are neutralized while compressed measurement records remain unchanged; the 0038 Track EDF retains its underlying corruption.",
+  "Authors": [
+    "Yiwei Jia",
+    "Bastien Milani",
+    "Jaime Barranco",
+    "Berk Can Açikgöz",
+    "Mauro Leidi",
+    "Eleonora Fornari",
+    "Jean-Baptiste Ledoux",
+    "Helene Vitali",
+    "Oscar Esteban",
+    "Jessica A.M. Bastiaansen",
+    "Benedetta Franceschiello"
+  ],
+  "License": "CC0",
+  "Funding": [
+    "Swiss National Science Foundation grant 220433 (PI: Franceschiello)",
+    "University of Applied Sciences and Arts Western Switzerland (HES-SO), grant 129816/IA-RECHERCHE23-19 (PIs: Franceschiello, Raileanu)"
+  ],
+  "EthicsApprovals": [
+    "Swiss BASEC protocol 2024-00165; positive local Ethics Committee approval on 27 June 2024."
+  ],
+  "ReferencesAndLinks": [
+    "https://mattechlab.github.io/sops/debi/data-collection/data-collection_DEBI_protocol/"
+  ]
+}

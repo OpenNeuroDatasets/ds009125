@@ -1,0 +1,8 @@
+{
+  "SpatialReference": "bids:images:sub-0011/anat/sub-0011_acq-LIBRET1w_T1w.nii.gz",
+  "Description": "Exact evaluated orbitalcrop map for T1w selected; no regeneration or resampling.",
+  "EvaluatedImage": "bids:images:sub-0011/anat/sub-0011_acq-LIBRET1w_T1w.nii.gz",
+  "MaskRole": "orbitalcrop",
+  "GridMatchesEvaluatedImage": true,
+  "Type": "ROI"
+}

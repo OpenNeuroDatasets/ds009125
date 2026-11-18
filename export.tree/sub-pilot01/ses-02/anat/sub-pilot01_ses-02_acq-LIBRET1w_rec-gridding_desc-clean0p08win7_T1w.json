@@ -1,0 +1,40 @@
+{
+  "Description": "Full-volume pilot reconstruction exported from its stored numeric array without interpolation or intensity normalization.",
+  "AcquisitionMID": "MID00359",
+  "Shape": [
+    480,
+    480,
+    480
+  ],
+  "VoxelSize_mm": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "NominalFieldOfView_mm": [
+    240,
+    240,
+    240
+  ],
+  "AcquisitionFieldOfView_mm": [
+    120,
+    120,
+    120
+  ],
+  "ReadoutOversamplingFactor": 2,
+  "Reconstruction": "gridding",
+  "Intensity": "Unscaled complex magnitude",
+  "SpatialReference": "Nominal reconstruction axes; scanner orientation and origin have not been validated.",
+  "SkullStripped": false,
+  "SourceRawData": "sourcedata/sub-pilot01/ses-02/rawdata/meas_MID00359_LIBRET1w.dat.7z",
+  "Sources": [
+    "bids::sourcedata/sub-pilot01/ses-02/rawdata/meas_MID00359_LIBRET1w.dat.7z"
+  ],
+  "ReadoutMask": "derivatives/mreye-binning/sub-pilot01/ses-02/MID00359/mask_clean0p08_win7.mat",
+  "EyeTrackingMask": "derivatives/mreye-binning/sub-pilot01/ses-02/MID00359/et_mask_clean0p08.mat",
+  "MaskCriterion": 0.08,
+  "MaskCriterionUnits": "Original source parameter; physical units were not documented in the supplied pilot metadata.",
+  "MaskWindow": 7,
+  "SequenceSHA256": "454ff68f4a7fa46f5743d763b3e0347af26c78878be002e796c57bbe74259855",
+  "SequenceMD5": "1a926458f325abb00d0b97c8a56ded67"
+}
