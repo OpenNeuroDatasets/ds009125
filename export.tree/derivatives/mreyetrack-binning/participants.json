@@ -1,6 +1,0 @@
-{
-  "participant_id": {
-    "Description": "Four-digit main-study participant identifier; no demographics or visit/session identity inferred."
-  },
-  "Description": "Membership of this 50-participant dataset, sub-0001 through sub-0050."
-}
