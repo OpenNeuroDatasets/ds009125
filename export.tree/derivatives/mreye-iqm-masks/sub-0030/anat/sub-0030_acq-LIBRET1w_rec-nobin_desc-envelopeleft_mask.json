@@ -1,8 +1,0 @@
-{
-  "SpatialReference": "bids:images:sub-0030/anat/sub-0030_acq-LIBRET1w_rec-nobin_T1w.nii.gz",
-  "Description": "Exact evaluated envelopeleft map for T1w nobin; no regeneration or resampling.",
-  "EvaluatedImage": "bids:images:sub-0030/anat/sub-0030_acq-LIBRET1w_rec-nobin_T1w.nii.gz",
-  "MaskRole": "envelopeleft",
-  "GridMatchesEvaluatedImage": true,
-  "Type": "ROI"
-}

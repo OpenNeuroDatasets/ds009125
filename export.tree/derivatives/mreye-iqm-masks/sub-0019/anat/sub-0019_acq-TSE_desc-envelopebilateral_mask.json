@@ -1,8 +1,0 @@
-{
-  "SpatialReference": "bids:images:sub-0019/anat/sub-0019_acq-TSE_T2w.nii.gz",
-  "Description": "Exact evaluated envelopebilateral map for T2w tse; no regeneration or resampling.",
-  "EvaluatedImage": "bids:images:sub-0019/anat/sub-0019_acq-TSE_T2w.nii.gz",
-  "MaskRole": "envelopebilateral",
-  "GridMatchesEvaluatedImage": true,
-  "Type": "ROI"
-}

@@ -1,8 +1,0 @@
-{
-  "SpatialReference": "bids:images:sub-0027/anat/sub-0027_acq-TSE_T2w.nii.gz",
-  "Description": "Exact evaluated background map for T2w tse; no regeneration or resampling.",
-  "EvaluatedImage": "bids:images:sub-0027/anat/sub-0027_acq-TSE_T2w.nii.gz",
-  "MaskRole": "background",
-  "GridMatchesEvaluatedImage": true,
-  "Type": "ROI"
-}

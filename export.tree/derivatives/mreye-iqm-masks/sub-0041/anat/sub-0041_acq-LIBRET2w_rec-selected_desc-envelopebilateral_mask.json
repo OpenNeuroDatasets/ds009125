@@ -1,8 +1,0 @@
-{
-  "SpatialReference": "bids:images:sub-0041/anat/sub-0041_acq-LIBRET2w_T2w.nii.gz",
-  "Description": "Exact evaluated envelopebilateral map for T2w selected; no regeneration or resampling.",
-  "EvaluatedImage": "bids:images:sub-0041/anat/sub-0041_acq-LIBRET2w_T2w.nii.gz",
-  "MaskRole": "envelopebilateral",
-  "GridMatchesEvaluatedImage": true,
-  "Type": "ROI"
-}
