@@ -1,0 +1,27 @@
+MR-Eye 2.0 — main cohort and pilot dataset
+
+Release scope
+This initial release includes all organized main-cohort and pilot image products, ET measurements and associated metadata. Main-cohort scanner DAT archives are excluded. A later dataset version is planned to add those archives after de-identification and verified recompression.
+
+Data structure
+- sub-XXXX/anat/: primary anatomical and retained MR-Eye-Track NIfTI images with JSON metadata.
+- sourcedata/sub-pilotNN/ses-NN/rawdata/: 13 header-deidentified pilot DAT archives and available VIBE DICOM references.
+- sourcedata/sub-XXXX/et/: primary eye-tracking TSV.GZ measurements with JSON metadata.
+- sourcedata/pulseq/: study sequence files.
+- derivatives/mreye-iqm-masks/: image masks and label definitions.
+- derivatives/mreye-binning/: LIBRE readout masks and data descriptors.
+- derivatives/mreyetrack-binning/: effective Track readout masks, frame tables, calibration arrays and essential acquisition/geometry metadata.
+- derivatives/mreye-et-originals/: the EDF release copies associated with the primary ET recordings.
+- code/organization/: core acquisition and recording indexes; checksums.sha256 covers the public files.
+
+Image and recording meaning
+Main-cohort LIBRE image intensities are normalized to the range 0–1; they are not original MRI signal amplitudes. Images retain their full reconstructed volume. Track scanner orientation/origin remain unvalidated in the metadata. Stimulus-direction images use displayed target labels and assume the participant followed the target; measured-gaze images are retained where stimulus reconstructions were unavailable. Available all-readout references are included.
+
+The study has 152 complete ET export pairs and one partial 0038 Track export (315,700 samples over 315.699 seconds). The 0038 Track no-bin image is unavailable. ET tables retain their existing project format; strict BIDS physio conformance is not claimed. EDF dates and gzip container names/times have been neutralized without changing measurement records. The 330 main-cohort DAT archives are not included in this initial release; their headers will be de-identified and the files recompressed and verified before inclusion in a later version.
+
+License: CC0. Authors, funding and ethics information are in dataset_description.json. Main-cohort identifiers run from sub-0001 through sub-0050; pilot-only participants use sub-pilot01 and sub-pilot02.
+
+Pilot data
+Two pilot-only participants are included separately from the main cohort: pilot01 has ses-01 and ses-02; pilot02 has ses-01. The cohort column in participants.tsv distinguishes the groups. Pilot MAT-derived native reconstruction exports retain unnormalized magnitude/RMS values and nominal reconstruction axes; scanner orientation/origin are not validated. Existing cropped/registered pilot images and image-bound masks are in derivatives/mreye-pilot-cropped/ and retain their stored values/affines. Numerical source variant labels and unspecified segmentation label meanings are not independently revalidated.
+
+The native pilot01 VIBE reference is available in ses-02 only; its ses-01 cropped VIBE comparison is a derivative using that reference. Pilot Track MID00402 is supplied as raw data only: no corresponding reconstruction or EDF/export was found in the supplied pilot folder. No new MRI reconstruction or ET synchronization was performed. Pilot names/dates/identifying header fields are removed from release copies; original server files remain unchanged. Main-cohort DAT archives are omitted from this release.

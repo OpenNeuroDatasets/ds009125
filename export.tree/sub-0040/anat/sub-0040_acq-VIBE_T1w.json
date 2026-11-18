@@ -1,0 +1,21 @@
+{
+  "SkullStripped": false,
+  "Description": "T1w VIBE MRI volume.",
+  "Contrast": "T1w",
+  "ReconstructionRole": "vibe",
+  "IQMMasks": {
+    "tissues": "bids:masks:sub-0040/anat/sub-0040_acq-VIBE_desc-tissues_dseg.nii.gz",
+    "sides": "bids:masks:sub-0040/anat/sub-0040_acq-VIBE_desc-sides_dseg.nii.gz",
+    "background": "bids:masks:sub-0040/anat/sub-0040_acq-VIBE_desc-background_mask.nii.gz",
+    "orbitalcrop": "bids:masks:sub-0040/anat/sub-0040_acq-VIBE_desc-orbitalcrop_mask.nii.gz",
+    "envelopeleft": "bids:masks:sub-0040/anat/sub-0040_acq-VIBE_desc-envelopeleft_mask.nii.gz",
+    "enveloperight": "bids:masks:sub-0040/anat/sub-0040_acq-VIBE_desc-enveloperight_mask.nii.gz",
+    "envelopebilateral": "bids:masks:sub-0040/anat/sub-0040_acq-VIBE_desc-envelopebilateral_mask.nii.gz"
+  },
+  "AcquisitionSessionIdentity": "study-sha256:75558ffcb2ee714b41dae0d7a2373c13bff6d2fe9a117dcef2be4736aaff0bd8",
+  "SessionIdentityStatus": "verified from source DICOM StudyInstanceUID, represented as SHA-256",
+  "Manufacturer": "Siemens Healthineers",
+  "ManufacturersModelName": "MAGNETOM Prisma Fit",
+  "MRAcquisitionType": "3D",
+  "MagneticFieldStrength": 3
+}

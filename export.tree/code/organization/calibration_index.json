@@ -1,0 +1,2516 @@
+[
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0001/gaze/bin/C_aligned.mat",
+    "sha256": "e9b69f7a7665a68b5fcf32e830793049a396a940f787ffaa069c2e336e3dc02c",
+    "bytes": 51752821,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0001/gaze/bin/C_reconstruction.mat",
+    "sha256": "33747ca4f1ca709404ac12f4e6047a50f7283b6ffcaddaf773c10bd5c632cc93",
+    "bytes": 20633655,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0001/gaze/bin/compression_and_gd.mat",
+    "sha256": "57700c1ef76272e022cf12e427dd9ea0e58d3acbdab4bad13ea0bbe0eca173e3",
+    "bytes": 34359,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0001/gaze/wobin/C_aligned.mat",
+    "sha256": "567aec1b7bb5409c6ab5e031a7a1ad52823c4feaaf417eaf87eed00afcb06de9",
+    "bytes": 51752821,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0001/gaze/wobin/C_reconstruction.mat",
+    "sha256": "07b2758a29bccedc7544ac36cbb9132323f48b0b5dc269f6208aeab4bcb7e52b",
+    "bytes": 20633655,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0001/gaze/wobin/compression_and_gd.mat",
+    "sha256": "28c5e025358d2b4f2749029ed1ac9a8590f7332b5ac2053d8f0599845a1554f5",
+    "bytes": 34359,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0002/stimulus/bin/C_aligned.mat",
+    "sha256": "da33d533ed31e6e687dc9bf24366bffad97db789c8919516ff806b64a5683604",
+    "bytes": 50734420,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0002/stimulus/bin/C_reconstruction.mat",
+    "sha256": "0066b4902dc9189cd038e560a5a6acea6e281a6aee122e7b6a8d8abc24683b50",
+    "bytes": 20586264,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0002/stimulus/bin/compression_and_gd.mat",
+    "sha256": "295fe0548c55b45376c4fb783a685ffa76f6e4334fdba60e7391336d748a541e",
+    "bytes": 34362,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0002/gaze/bin/C_aligned.mat",
+    "sha256": "c877fb7b42e73dc1a50f2ad9d30dc9d13c51e3213ffc994efe9ddc47bb0dfab8",
+    "bytes": 50734420,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0002/gaze/bin/C_reconstruction.mat",
+    "sha256": "34ec3308c689b12fadd4b12b368fc88abbc544936191dd05f0bfda6d8f37d743",
+    "bytes": 20586264,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0002/gaze/bin/compression_and_gd.mat",
+    "sha256": "81fdbaf6c6a48af3d1624cc999f401eb38c331b781b6ef4c9a9b40d56959ff7e",
+    "bytes": 34362,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0002/gaze/wobin/C_aligned.mat",
+    "sha256": "8776d1f11cbafd012344a1ba2767d1654c8b8589a6fd278f31cbde437da1e79d",
+    "bytes": 50734420,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0002/gaze/wobin/C_reconstruction.mat",
+    "sha256": "204c94e41c6169f2cc2b7c9eecfb3d588b7dd703a02ed3e343fd38124fac92e2",
+    "bytes": 20586264,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0002/gaze/wobin/compression_and_gd.mat",
+    "sha256": "7ca4dc9f8c625bbd6f986246a3e6fbd06f3a1c76742b29d8d2d9bc91ad143b43",
+    "bytes": 34362,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0003/gaze/bin/C_aligned.mat",
+    "sha256": "d47c089548c6ff67dba5de8a64c2fc4557b752bb5eb5a42985ad36985279e927",
+    "bytes": 42273881,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0003/gaze/bin/C_reconstruction.mat",
+    "sha256": "bac709691e30a92277b73971c6b38720f72c400b1152950efe7c49de1f977d5d",
+    "bytes": 20593544,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0003/gaze/bin/compression_and_gd.mat",
+    "sha256": "c434fc83d6b7f40d2edd6e1bd404e33e2a56ea20038e5db2be4b8fc7141421cb",
+    "bytes": 34309,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0003/gaze/wobin/C_aligned.mat",
+    "sha256": "c98dfc37b051d1581e5e0285c7f6f356e9607b215f7a4c55bfa825c78b433a7f",
+    "bytes": 42273881,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0003/gaze/wobin/C_reconstruction.mat",
+    "sha256": "db8efd2a2c6799b09bfa1495d07d5180322d63cbd62f35e92a27cab644bf72b4",
+    "bytes": 20593544,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0003/gaze/wobin/compression_and_gd.mat",
+    "sha256": "09e8ac50a86a36890677c29e966ff140d14e867bda5734bed1368c05253d62d9",
+    "bytes": 34309,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0003/stimulus/bin/C_aligned.mat",
+    "sha256": "6ae76fd16085f1ef96278cc64e43b3e82aabbdcc1a7fb58daf87b505aaeba786",
+    "bytes": 42273881,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0003/stimulus/bin/C_reconstruction.mat",
+    "sha256": "3f84300f971f5cd81e947f0045900a89c33ff1972b2dffcea5a1354437baac3e",
+    "bytes": 20593544,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0003/stimulus/bin/compression_and_gd.mat",
+    "sha256": "de1ea06ed7f02d12528048389de9a3529c1bca14041f5923c2151b774989b363",
+    "bytes": 34309,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0004/gaze/bin/C_aligned.mat",
+    "sha256": "448056763644c1e8ac8a5ae51a915818537da5d7c8e9c72064caa22d83ba8f8c",
+    "bytes": 42268295,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0004/gaze/bin/C_reconstruction.mat",
+    "sha256": "c39e0591072983e3ee8aa3c8d4644f5f10cdb9c47297ffc40eebe272f1025d15",
+    "bytes": 20561355,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0004/gaze/bin/compression_and_gd.mat",
+    "sha256": "1b42af4009173831a81787936a0ff5ae5b9f94072a9abc7882b19c9b4c3f29b9",
+    "bytes": 34341,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0004/gaze/wobin/C_aligned.mat",
+    "sha256": "b02130091854a4ec0ad3accaf1c76a4a1f8f9bf93b5eea812b7f04a4248b489f",
+    "bytes": 42268295,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0004/gaze/wobin/C_reconstruction.mat",
+    "sha256": "6c9ce4d9410357c69a474a8bff6acff8a812fce0d480612b2a6c43c0abf2231b",
+    "bytes": 20561355,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0004/gaze/wobin/compression_and_gd.mat",
+    "sha256": "f92848f129ad5dc8564e97977db40edebb4b00e27db53874b3a3e1e4990e679a",
+    "bytes": 34341,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0004/stimulus/bin/C_aligned.mat",
+    "sha256": "3dcd731cc26224ad85ca3c86e9623e07f0277d9013d94f846b52372847bf13cd",
+    "bytes": 42268295,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0004/stimulus/bin/C_reconstruction.mat",
+    "sha256": "c2b0f67e10aee667552c2a1635c122375a666b16dc1f241ea672cda61d0b0256",
+    "bytes": 20561355,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0004/stimulus/bin/compression_and_gd.mat",
+    "sha256": "ebc754825a292cdec5a61b5dc48576c308f1a6bc267fe0fff11d846ec9970571",
+    "bytes": 34341,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0005/stimulus/bin/C_aligned.mat",
+    "sha256": "643ef98b7ac57c5bd34d622e4b8e7b4a460de4d68e242634e12269d78059fd51",
+    "bytes": 42457144,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0005/stimulus/bin/C_reconstruction.mat",
+    "sha256": "8a583cad7bb137ec1dda0f501e9ddf7b65ed3e2ba29354d440120f4c5af66e25",
+    "bytes": 20588509,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0005/stimulus/bin/compression_and_gd.mat",
+    "sha256": "2f45ec0476df516dae70a55a66ca89be35275be04514433fa1605e70767280a3",
+    "bytes": 34370,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0005/gaze/bin/C_aligned.mat",
+    "sha256": "c52fd42b4f8e3100352a42cb874122ba84bd9a6a57c3644ebbb8625970b21e26",
+    "bytes": 42457144,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0005/gaze/bin/C_reconstruction.mat",
+    "sha256": "30b9b1db9a7732df41e06e448e8a7b613ff721a61b18132fafba3ad89f277c44",
+    "bytes": 20588509,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0005/gaze/bin/compression_and_gd.mat",
+    "sha256": "ea2f9fddd79f085fb6631d1139e462c439a5f5948e53d5666d1d6cffd07e86b4",
+    "bytes": 34370,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0005/gaze/wobin/C_aligned.mat",
+    "sha256": "ed70c01d7caa38293aeda5acddd3ef3640a17aaf0342596a5c9c677273c45ca7",
+    "bytes": 42457144,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0005/gaze/wobin/C_reconstruction.mat",
+    "sha256": "f15ce34d08c8dd31db6ed766d27e3fac8789dad07b753b36d316bf6caebc2bd4",
+    "bytes": 20588509,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0005/gaze/wobin/compression_and_gd.mat",
+    "sha256": "33e4326088704bb9ae7882d925e67a9b4d8cbe973ca1e7b16e527d1d3b836903",
+    "bytes": 34370,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0006/gaze/bin/C_aligned.mat",
+    "sha256": "03380753c0a30d23d7fcd7ee7b19438325eeaa36484b8b9c2204ef5ed2f6f8b2",
+    "bytes": 42500696,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0006/gaze/bin/C_reconstruction.mat",
+    "sha256": "c7e2140dc622b0e420b7df466cecfb65cdf423a736a3556c2e1fe2018b8821c1",
+    "bytes": 20613824,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0006/gaze/bin/compression_and_gd.mat",
+    "sha256": "eabaae4f8b4e7149fb31af50bddd7237a7e5006a6606ea2cd2fb2ad53f032199",
+    "bytes": 34375,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0006/gaze/wobin/C_aligned.mat",
+    "sha256": "3141e4c170183bda12e9976b906300bfb52689ca115793af129c51e8cc30260b",
+    "bytes": 42500696,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0006/gaze/wobin/C_reconstruction.mat",
+    "sha256": "45b652e2dc2df47baa7439cb044aa65e9854707ba41810057e3ab8c2114ffe01",
+    "bytes": 20613824,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0006/gaze/wobin/compression_and_gd.mat",
+    "sha256": "61bfbd97259c9f0515a664d079aa9a024cc446d9f5634e6e04abe6c67f94afb4",
+    "bytes": 34375,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0007/stimulus/bin/C_aligned.mat",
+    "sha256": "a70e9f1e613486aafa6b24746d421209d007d6bd0070ecc7a2b464c13b2f460d",
+    "bytes": 42509666,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0007/stimulus/bin/C_reconstruction.mat",
+    "sha256": "f0d37c3bfb38ce059a1f49cff5963d17d743463f27e57246cbcbea71d95a14cb",
+    "bytes": 20573896,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0007/stimulus/bin/compression_and_gd.mat",
+    "sha256": "f6c3dff844c266d521d98c619b30ee5e330ffceb7476b884b590305252ad84a7",
+    "bytes": 34408,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0007/gaze/bin/C_aligned.mat",
+    "sha256": "79ad56ff1b50d80cc5e1344242f8ac142d88593fb5e547bf9b31f90c32f7e7bd",
+    "bytes": 42509666,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0007/gaze/bin/C_reconstruction.mat",
+    "sha256": "d4e2db64aff8cbf48cfad815e27fff7af5925308ad846a4ee572b3adce8b544b",
+    "bytes": 20573896,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0007/gaze/bin/compression_and_gd.mat",
+    "sha256": "8c3848875bceeb864641032b9b36073959d40d34b4c7fbcda62e35e1d312a868",
+    "bytes": 34408,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0007/gaze/wobin/C_aligned.mat",
+    "sha256": "90352d51269bdb7c82dac2de83c1451b4496d98b03f5ed2912a6426e3b0c8205",
+    "bytes": 42509666,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0007/gaze/wobin/C_reconstruction.mat",
+    "sha256": "82eaa76d70fcc2ffc74b02a24d0b8d36480aeca90a2563411c3745f05fae303d",
+    "bytes": 20573896,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0007/gaze/wobin/compression_and_gd.mat",
+    "sha256": "5fcccf73195e8fa4c34d18bacab08d030fd52e4f618ff8249cfbfafd253f4aa7",
+    "bytes": 34408,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0008/gaze/bin/C_aligned.mat",
+    "sha256": "ed5adae5c8117073c22ea361be04899d5e034f9a59e3e3b489fc16b91b615a30",
+    "bytes": 42245406,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0008/gaze/bin/C_reconstruction.mat",
+    "sha256": "9223047a299e4488939e6ae65298e7fb27fc11b77b64fd1171501768f461c855",
+    "bytes": 20566637,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0008/gaze/bin/compression_and_gd.mat",
+    "sha256": "078bbd71d96831cf8285147d974b9e1ce51712da94702016cc463e2b3720f234",
+    "bytes": 34365,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0008/gaze/wobin/C_aligned.mat",
+    "sha256": "1595b39a1d40aab6f93896b7e160b8f1cf58f134cdc8915ebc23d1b7cf369fa2",
+    "bytes": 42245406,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0008/gaze/wobin/C_reconstruction.mat",
+    "sha256": "b24651dbd8b1ebd6bd8ce9fac4e0f1fe558b32063df500325110bd0d30e9f744",
+    "bytes": 20566637,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0008/gaze/wobin/compression_and_gd.mat",
+    "sha256": "e1639909e912498d2adecd680815742016accd8602deb2747431203d4cea2279",
+    "bytes": 34365,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0008/stimulus/bin/C_aligned.mat",
+    "sha256": "24a0dd8b6de9f1adeb4ecd3e4d127f26d7833f767ab49b865f2fd8d0de395094",
+    "bytes": 42245406,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0008/stimulus/bin/C_reconstruction.mat",
+    "sha256": "5762fbafce6aed24d6155174326069e637ccfa699814049b8997e23e87c852cf",
+    "bytes": 20566637,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0008/stimulus/bin/compression_and_gd.mat",
+    "sha256": "6369357daacddea264fbe4aa2a0953ed477468b1552deb15c6782325b9e15d7b",
+    "bytes": 34365,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0009/gaze/bin/C_aligned.mat",
+    "sha256": "5d38e17176b6837a33e6b79a9c264e5fb485bf45f15a9cf2d2a566745436f474",
+    "bytes": 42591233,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0009/gaze/bin/C_reconstruction.mat",
+    "sha256": "f8684820c67780a9eddfe1a7319d83b9132731d170ad247f53132d95bb0e7447",
+    "bytes": 20608960,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0009/gaze/bin/compression_and_gd.mat",
+    "sha256": "12e31ee14d38bd6403cd3e70c65735870768a75872a292f6c1be3e323b356b08",
+    "bytes": 34380,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0009/gaze/wobin/C_aligned.mat",
+    "sha256": "71669388a14bd60d52c9efe9f031dfbe7029f2c39cf96bd955e9cf3d922e0f60",
+    "bytes": 42591233,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0009/gaze/wobin/C_reconstruction.mat",
+    "sha256": "3e6e73fee878cffe74743215e0c5bb0612128f6494d8c73fba6aab58e47fcbda",
+    "bytes": 20608960,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0009/gaze/wobin/compression_and_gd.mat",
+    "sha256": "e0f52ed53e41f9b63618ad9cf8141b5c6e38fd6a279499db89a3adee4a39ed63",
+    "bytes": 34380,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0009/stimulus/bin/C_aligned.mat",
+    "sha256": "e9b7ba58d5d6965a04704f8360ff8173d08cf903b4e9e23413a8a4770219e77d",
+    "bytes": 42591233,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0009/stimulus/bin/C_reconstruction.mat",
+    "sha256": "af025143a601ee6bb802f874b8c9b1a59cea356af2d1f0003ff9051e3a1fa750",
+    "bytes": 20608960,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0009/stimulus/bin/compression_and_gd.mat",
+    "sha256": "f337b4e08d53edb45bbe3cceea444bd27c8b3f52791e6c1a67221eb614c27763",
+    "bytes": 34380,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0010/gaze/bin/C_aligned.mat",
+    "sha256": "b5fdcf3c40caffcec59cd40e56afa1deea754d7edb0fbb674825a044ffc63d5a",
+    "bytes": 42416684,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0010/gaze/bin/C_reconstruction.mat",
+    "sha256": "92a3ad2eaa2de8aad1924eddbe23a4d28a169a4e025fc6e4571827aa0a47b5c8",
+    "bytes": 20616718,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0010/gaze/bin/compression_and_gd.mat",
+    "sha256": "2396e4b112f172fd70c37299ea8ed61c80979bd3c3894a6240f64672ca8388cd",
+    "bytes": 34352,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0010/gaze/wobin/C_aligned.mat",
+    "sha256": "8e2f884257e6be0ebc4bb97dc4cd809a7949a7865c5956aae7980cf738097884",
+    "bytes": 42416684,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0010/gaze/wobin/C_reconstruction.mat",
+    "sha256": "85d6e4daf2d00a5dfdbdc29b09c25235e2bc53e726b8a9652ccfcc5bb636044a",
+    "bytes": 20616718,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0010/gaze/wobin/compression_and_gd.mat",
+    "sha256": "afdf8482da3bdc76eea6b717607ff1254b147f5985191de2170f7eb028de1be0",
+    "bytes": 34352,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0010/stimulus/bin/C_aligned.mat",
+    "sha256": "c66b34a367d1f3e91b0866ba5ef81ca65e692a0e65bad6e7042ddbe8a7e93eb5",
+    "bytes": 42416684,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0010/stimulus/bin/C_reconstruction.mat",
+    "sha256": "e77fab3ea43a28744342aebaa3faaec984b6d856b7032aca56ff69382109b072",
+    "bytes": 20616718,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0010/stimulus/bin/compression_and_gd.mat",
+    "sha256": "a2284b77d33c5c8974d0e5b95d82fdaf7ad3e573befd50cdb82c334fe1688857",
+    "bytes": 34352,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0011/stimulus/bin/C_aligned.mat",
+    "sha256": "4e888f8f98597b8987e0b7b160d99c7f2c3b9c324fb542c80a233b09af7dcb55",
+    "bytes": 42426008,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0011/stimulus/bin/C_reconstruction.mat",
+    "sha256": "3952a64d653219c910074a8090015bef984ab7a18e054f45578f74b845c7d999",
+    "bytes": 20591862,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0011/stimulus/bin/compression_and_gd.mat",
+    "sha256": "f38b0db92b81300cc710c60536921108da8c0d49cb3efcb2fb5a34f8485f6c94",
+    "bytes": 34351,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0011/gaze/bin/C_aligned.mat",
+    "sha256": "378231d074deaf98dfb527df1b545e808a5f174332518732aa10cc543e422664",
+    "bytes": 42426008,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0011/gaze/bin/C_reconstruction.mat",
+    "sha256": "0eb0601ac8d8dd049bb50009382c00171f688606baa2e36ef4e590f9efcc4fa9",
+    "bytes": 20591862,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0011/gaze/bin/compression_and_gd.mat",
+    "sha256": "5db81ce5451ec14eeaee5c3e32fb81eb4738d06c6d5804a404920cd07899dab0",
+    "bytes": 34351,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0011/gaze/wobin/C_aligned.mat",
+    "sha256": "ff3e23596fcdd427f313f3b801e248cabfd3363b721636825d6b8c8ec832ef2e",
+    "bytes": 42426008,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0011/gaze/wobin/C_reconstruction.mat",
+    "sha256": "48a9b81d1eb9e5925751e72d1af76e3f693e851353486b710cb599a66d63cdca",
+    "bytes": 20591862,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0011/gaze/wobin/compression_and_gd.mat",
+    "sha256": "106c895fe49f8b6013265d656078e7ca893b324abcf898655f539eee083e77bd",
+    "bytes": 34351,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0012/gaze/bin/C_aligned.mat",
+    "sha256": "2bdeb8212e9f44ecfea96daea4b7f183035acdf271d794b0f3ae20d2e30c5600",
+    "bytes": 42258715,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0012/gaze/bin/C_reconstruction.mat",
+    "sha256": "9cf8f289ed8f11d79b32f7805958886942a68bcb8da875a8bed4c96959e7fbeb",
+    "bytes": 20573077,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0012/gaze/bin/compression_and_gd.mat",
+    "sha256": "f55a6dc6dd1808999beef0ba688551f61fb1fc7c6f023b24e863256046a1cb38",
+    "bytes": 34325,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0012/gaze/wobin/C_aligned.mat",
+    "sha256": "1d7f6e5f3f7a899a349373934a8dec045063c25a30b6fe177503ec7a1c8387f8",
+    "bytes": 42258715,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0012/gaze/wobin/C_reconstruction.mat",
+    "sha256": "4e4766982f8bfc54ad6928afe7c38b6eccc5a0a02c39ea057bafa0496276dac4",
+    "bytes": 20573077,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0012/gaze/wobin/compression_and_gd.mat",
+    "sha256": "af9aeaa04cf3e78e7fb13aa876304262239b346457179e8c120633aa58732122",
+    "bytes": 34325,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0012/stimulus/bin/C_aligned.mat",
+    "sha256": "53a700c224a8bb43775b78416cac0364ff5d72e58aa06f0250cf564f74880abf",
+    "bytes": 42258715,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0012/stimulus/bin/C_reconstruction.mat",
+    "sha256": "ae69cac76321862b8653e5766c7f5b170a9c4d0cd146c4b9b181a89b0b664a09",
+    "bytes": 20573077,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0012/stimulus/bin/compression_and_gd.mat",
+    "sha256": "f518168fa3ad6b10f539a71f90318781d5b39b43b988713b996a92dd0922799b",
+    "bytes": 34325,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0013/gaze/bin/C_aligned.mat",
+    "sha256": "ff305acb6c8a8c19c3c56213acf4dbb3ffd501ab4c8e881bca47a2db4da489ef",
+    "bytes": 42492904,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0013/gaze/bin/C_reconstruction.mat",
+    "sha256": "a59d85e84de3150a019e1de45296c9d00e8a03731167e13ac5dce9c23115d71f",
+    "bytes": 20619494,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0013/gaze/bin/compression_and_gd.mat",
+    "sha256": "d7fe0047ed54050250f6a80cd0ccdf03145b9cc839d14b412ee850b211a3261b",
+    "bytes": 34330,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0013/gaze/wobin/C_aligned.mat",
+    "sha256": "f330a17b0ceb80eb1a41967d044609cc9c1bdc63d4b5436bfb05f64fb564e577",
+    "bytes": 42492904,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0013/gaze/wobin/C_reconstruction.mat",
+    "sha256": "94fc3d900f12f4f16628ef15ef2f27b0ff9e65ec51c39ecd030e5e8afb5a1d9a",
+    "bytes": 20619494,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0013/gaze/wobin/compression_and_gd.mat",
+    "sha256": "b65de7782b705a423404ac8eeb306dbadcc50c98bd50adc7f65978fe6357fd84",
+    "bytes": 34330,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0013/stimulus/bin/C_aligned.mat",
+    "sha256": "8715a8b795903285fcdb1a692cfbe9c7b89fb845db34f93848f3593a0567120c",
+    "bytes": 42492904,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0013/stimulus/bin/C_reconstruction.mat",
+    "sha256": "bf95b92250e7e6aae22851847e6d2a1feca720783f4d3d889070592c8f4ac310",
+    "bytes": 20619494,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0013/stimulus/bin/compression_and_gd.mat",
+    "sha256": "af0e44527ea0699c97d3d455264e3bcc77a11dc3fb13328299d8cebd20a0eece",
+    "bytes": 34330,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0014/stimulus/bin/C_aligned.mat",
+    "sha256": "bad790a8c339046402cc40725ac9a07e2c5ede3f07a2c272711467b14a7a1d09",
+    "bytes": 42457917,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0014/stimulus/bin/C_reconstruction.mat",
+    "sha256": "2ca98b66f94efc76a9f8f3eb9e5cad0900ebc43a5648736be1a1544113b83e71",
+    "bytes": 20624087,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0014/stimulus/bin/compression_and_gd.mat",
+    "sha256": "a53604cf3a37ca8989f1fd9313cdd5d747cf5bc1c1aa703032966b44d73faa26",
+    "bytes": 34344,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0014/gaze/bin/C_aligned.mat",
+    "sha256": "97ec0c229000d972b6ba651942f3083ecdf7e70f301cc9c8f58383a3ae4f30b8",
+    "bytes": 42457917,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0014/gaze/bin/C_reconstruction.mat",
+    "sha256": "7c8de75b7c9a5df74ed906d7a6eeda8c2ecdf67561ab6c02ccc1e147032cf96f",
+    "bytes": 20624087,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0014/gaze/bin/compression_and_gd.mat",
+    "sha256": "cf0903fa45b1d3fbdd2571f3b0a054b897b72eef3b56598641493e4743dfe987",
+    "bytes": 34344,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0014/gaze/wobin/C_aligned.mat",
+    "sha256": "220ffb16bdf803bb68c6cb32729ada7d492aef282556326eb15b067b6da97d8b",
+    "bytes": 42457917,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0014/gaze/wobin/C_reconstruction.mat",
+    "sha256": "cb61355b1852655c579e316489fb4ab5cde860273e2a97f135d1b5149ea3dd1b",
+    "bytes": 20624087,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0014/gaze/wobin/compression_and_gd.mat",
+    "sha256": "ae5212c2e82d7444a39f96468494bb08583e0f733c4c7dcfeb3698a79d86085d",
+    "bytes": 34344,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0015/gaze/bin/C_aligned.mat",
+    "sha256": "2b6b72aff1d37b9d745e463120ee79f12c944f47cf265a73aba4dc832e1c481f",
+    "bytes": 42415830,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0015/gaze/bin/C_reconstruction.mat",
+    "sha256": "a978deeeddf255a5bf123b63df776974189eec1e0cc72a326f1254f8551dbdd2",
+    "bytes": 20590294,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0015/gaze/bin/compression_and_gd.mat",
+    "sha256": "d2170ceab81778a6c541b6918aaac00a985a8c96eebd7d89ea3076c5977222dd",
+    "bytes": 34287,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0015/gaze/wobin/C_aligned.mat",
+    "sha256": "27f8d8b1ba200df759fa574b20b9aaf71de47c6cba9eeb9ee665c89b29e123b4",
+    "bytes": 42415830,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0015/gaze/wobin/C_reconstruction.mat",
+    "sha256": "42b4a42b1c3d4242f2768804c6009aad09f1e0195ba35f9bd3f4d45d5c75b6ac",
+    "bytes": 20590294,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0015/gaze/wobin/compression_and_gd.mat",
+    "sha256": "b05f078c26a36f4c2eae9c316a3ed0b24ff6a514cd7e5ab138219cb6b041556e",
+    "bytes": 34287,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0015/stimulus/bin/C_aligned.mat",
+    "sha256": "e76dea7c538e058a28abb91b9e76b64373c1f4cc6c52456b6709bca44781b834",
+    "bytes": 42415830,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0015/stimulus/bin/C_reconstruction.mat",
+    "sha256": "a2ec09ec58f781ef8c716b18c058249572d4df1370bdbd995fa263d87f947cfa",
+    "bytes": 20590294,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0015/stimulus/bin/compression_and_gd.mat",
+    "sha256": "f57bf54b64c4ae1b9795a59d3985da2dca741beba18c211344b03aa4c288386d",
+    "bytes": 34287,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0016/gaze/bin/C_aligned.mat",
+    "sha256": "201441dc52e74395143eb9ab34044af644f58d654179545126f394f46ba50eca",
+    "bytes": 42243189,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0016/gaze/bin/C_reconstruction.mat",
+    "sha256": "f0e54daba93e4582482697e785c1fb6e4e4e33f0f571e54d41d0aee1cc8af853",
+    "bytes": 20555990,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0016/gaze/bin/compression_and_gd.mat",
+    "sha256": "3fdddd3cfaeb03e5070384561d74ff5e0557e6e3274feab52e3ebabc6e4482ef",
+    "bytes": 34346,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0016/gaze/wobin/C_aligned.mat",
+    "sha256": "322e7819c2d0e5553a992f3663be0f979c598544ad75d7d781419eb36d052149",
+    "bytes": 42243189,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0016/gaze/wobin/C_reconstruction.mat",
+    "sha256": "d110b634651b851386d68da7d3a8cd6773f54194199e093c55c41aca7b8d776f",
+    "bytes": 20555990,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0016/gaze/wobin/compression_and_gd.mat",
+    "sha256": "0fb1351ec1d2456112953328a1224705bb0110a6b98d3e89a72b4355d6584bfc",
+    "bytes": 34346,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0016/stimulus/bin/C_aligned.mat",
+    "sha256": "9c186c1fb65080a9f8435e9e41ed9d857a0b7d934ffaa5ea0ea87cfabdea6eed",
+    "bytes": 42243189,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0016/stimulus/bin/C_reconstruction.mat",
+    "sha256": "8f05432b0cfb126dd4561910f0c240999eeb449f787662f88a5ef8c6685181ef",
+    "bytes": 20555990,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0016/stimulus/bin/compression_and_gd.mat",
+    "sha256": "1fc3e8c23ee20151e1485706df18b2f9b864c2f344060ef9779624c06e21d93b",
+    "bytes": 34346,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0017/gaze/bin/C_aligned.mat",
+    "sha256": "2f8acf63e6060e0ad629071312f86d5d6560622e459a5836f9a6d95c968b0f66",
+    "bytes": 42226016,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0017/gaze/bin/C_reconstruction.mat",
+    "sha256": "b5434e40f0a51dc830d0947bc9e878aeaba6b62431bb476d5961601e793b6103",
+    "bytes": 20543778,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0017/gaze/bin/compression_and_gd.mat",
+    "sha256": "2749adbf71e7f0b4d85a512cc8c07531e27c5f33fc2e456c374b0ac521b2682a",
+    "bytes": 34265,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0017/gaze/wobin/C_aligned.mat",
+    "sha256": "471f265065d11a23f560c692ea5f1659d3d4870337486c92e5a6923fb8f4a2fc",
+    "bytes": 42226016,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0017/gaze/wobin/C_reconstruction.mat",
+    "sha256": "3662db504115532f25403e7a2a01c7b8c24b37ef9020535f7b40f8024e15ec85",
+    "bytes": 20543778,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0017/gaze/wobin/compression_and_gd.mat",
+    "sha256": "0713ac2fd66a242cc73c13cf0dc20529cfb131daf30908a10e2da366568f68b3",
+    "bytes": 34265,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0017/stimulus/bin/C_aligned.mat",
+    "sha256": "fb1b10a19168dbdb634aa09ea57085f4841287cfc7428e8c70787bb25bd0fa0e",
+    "bytes": 42226016,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0017/stimulus/bin/C_reconstruction.mat",
+    "sha256": "b6e28492f038d7ebda774725a158951fa6410d8226073eee835f9fa82651e876",
+    "bytes": 20543778,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0017/stimulus/bin/compression_and_gd.mat",
+    "sha256": "1b44ed4a715521108c0d69b5206dc68eef61fff7feaacf49d9207ceadb38050c",
+    "bytes": 34265,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0018/stimulus/bin/C_aligned.mat",
+    "sha256": "ed98b1595e813f52b065661db93e5a7b09bc46756f72ff9202d9398e3c8faefd",
+    "bytes": 50724874,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0018/stimulus/bin/C_reconstruction.mat",
+    "sha256": "5eabe2374f257c5b27ee05be62430115b1fbc7ec93a19fdc325dd3517373bbe2",
+    "bytes": 20567677,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0018/stimulus/bin/compression_and_gd.mat",
+    "sha256": "bbad05e1906e136fe5a0dfd39168ef5af9ab778a61faeea1e5e9696ab7b6be47",
+    "bytes": 34290,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0018/gaze/bin/C_aligned.mat",
+    "sha256": "caba3fc0ec4432d4a0906f4e8edb7542a7e151c3bc930d0058802a9a9d50ac90",
+    "bytes": 50724874,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0018/gaze/bin/C_reconstruction.mat",
+    "sha256": "34e0a46dad9ed47bb1947384acdd82c4fb0af5463f34f6c2baac61822dd68e27",
+    "bytes": 20567677,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0018/gaze/bin/compression_and_gd.mat",
+    "sha256": "38c0a600b30b58e2f884e3ad5d259c778f8b524ff6c03fa07fe03664ae9cd852",
+    "bytes": 34290,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0018/gaze/wobin/C_aligned.mat",
+    "sha256": "966657f6fb8a6a94ec6cb506e57df76f9d507f6bb1f20d0ce36e14353a758af1",
+    "bytes": 50724874,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0018/gaze/wobin/C_reconstruction.mat",
+    "sha256": "8fcb083df0871ac3c96d0f60916cbf01b0388ed1fc0e7faecb4064fc3c8ba623",
+    "bytes": 20567677,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0018/gaze/wobin/compression_and_gd.mat",
+    "sha256": "c640ea71870b7d89fc5ce662c2a3d91a70e19597a64affc94f51c6a4411ac9c3",
+    "bytes": 34290,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0019/gaze/bin/C_aligned.mat",
+    "sha256": "5c4f3706bb09120ae22eeaacb5eb58ebb70ba07c528eddbbf187e174127a4659",
+    "bytes": 42006127,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0019/gaze/bin/C_reconstruction.mat",
+    "sha256": "42d62b0a06c623bfbae1026b008a87e3a9802903360fee839941b979b4f82547",
+    "bytes": 20584840,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0019/gaze/bin/compression_and_gd.mat",
+    "sha256": "8987061ff349af858ecc9c00113e25c7fbb2fe470b0a48d026ab0b625c5fc881",
+    "bytes": 34324,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0019/gaze/wobin/C_aligned.mat",
+    "sha256": "763a382c91b6c55a3940a9d04ea3e01b3c734866ce43017baa5ff0d49df4b9e7",
+    "bytes": 42006127,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0019/gaze/wobin/C_reconstruction.mat",
+    "sha256": "d42ba36c06bddd47132e087574816fe1a8bd16b35b55710cb12ce133d12cc0b5",
+    "bytes": 20584840,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0019/gaze/wobin/compression_and_gd.mat",
+    "sha256": "20a2685925dfc895619f67097693ff22445d830f44962ae771fbb79f7769adb9",
+    "bytes": 34324,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0019/stimulus/bin/C_aligned.mat",
+    "sha256": "33d91d3eb71f0f5a67a32c19c85e18b3b3a9e1b1c64928b85da6f914a4f3708e",
+    "bytes": 42006127,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0019/stimulus/bin/C_reconstruction.mat",
+    "sha256": "4753e39edd3d79e5cddb680b145a6558c89c511b9edb79415a2e216746b0f5fd",
+    "bytes": 20584840,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0019/stimulus/bin/compression_and_gd.mat",
+    "sha256": "1b5e4fe958ff2130b144c5ecaca8a1d85c72da4616b6265f4caa81ae9683269d",
+    "bytes": 34324,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0020/gaze/bin/C_aligned.mat",
+    "sha256": "75c307d4b496a24d67d1321022beb879ac004240cea140de98ec774965fd7b05",
+    "bytes": 42476875,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0020/gaze/bin/C_reconstruction.mat",
+    "sha256": "a61a63e8cf257f625d5e4f6fcffbe11bf70c23e3be15ac2af27ddd3226c33151",
+    "bytes": 20602239,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0020/gaze/bin/compression_and_gd.mat",
+    "sha256": "7fcdabd8edf1d723fe5c05f26107e9553697abd6cc1df12b8758bd28c61b71c4",
+    "bytes": 34324,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0020/gaze/wobin/C_aligned.mat",
+    "sha256": "16756ad695d6cb8cd452c0aac16c57d399c099b234edbd7a2fe442e14ae3f4d3",
+    "bytes": 42476875,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0020/gaze/wobin/C_reconstruction.mat",
+    "sha256": "382a9be07849953824a600464181a0ce119d23b0e0fe47ba3f298347e25951f1",
+    "bytes": 20602239,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0020/gaze/wobin/compression_and_gd.mat",
+    "sha256": "74449ba0cfff90e3cf98ab021d77a10a68120b15484d7fe531b7a935ed9646f9",
+    "bytes": 34324,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0020/stimulus/bin/C_aligned.mat",
+    "sha256": "3295ba013eb2a2351df65c43b8672a40409c0748ce742da4d019c96841ab205f",
+    "bytes": 42476875,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0020/stimulus/bin/C_reconstruction.mat",
+    "sha256": "9c9c6eb3ca3589c25312527835e77121f033a9762b70a5b2c59b92b329568ee9",
+    "bytes": 20602239,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0020/stimulus/bin/compression_and_gd.mat",
+    "sha256": "1e9fab407661081ea4ab5e4d799440f487e12c76a8f8d93f0de712e0194112d8",
+    "bytes": 34324,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0021/stimulus/bin/C_aligned.mat",
+    "sha256": "f42fe3cefbb79366b76f4966916624b21031ba589e9de25353a465432064dc38",
+    "bytes": 42166315,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0021/stimulus/bin/C_reconstruction.mat",
+    "sha256": "361ba2eabfe47f3f38682d38200d06a3bfff86dbf7706eef1c02a7d7c2e944d1",
+    "bytes": 20585248,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0021/stimulus/bin/compression_and_gd.mat",
+    "sha256": "2eace4a4ccea5281315e278ddba7ea29f989f5027808819b427579ac176c29e1",
+    "bytes": 34344,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0021/gaze/bin/C_aligned.mat",
+    "sha256": "2c109c310778c7e790e342d9896ccd22f512b1f3894edbba72a604b67c0e195c",
+    "bytes": 42166315,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0021/gaze/bin/C_reconstruction.mat",
+    "sha256": "1a2bd716fbd20b5d0fac6f58c3fc308bc4e164aed406a965951d09b321e93edb",
+    "bytes": 20585248,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0021/gaze/bin/compression_and_gd.mat",
+    "sha256": "72b103041b4a4449ce2606e07bae1eab2ca3f64c3d340af4508a6cb39a8764e8",
+    "bytes": 34344,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0021/gaze/wobin/C_aligned.mat",
+    "sha256": "661ac43fa220fd7a1da09737e1c0aa3bac5bd75c3598f6a2ca253c3cefcb330d",
+    "bytes": 42166315,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0021/gaze/wobin/C_reconstruction.mat",
+    "sha256": "b94172d7eae4d885e730887f742b1cb5afccb092df7f75a12ea95f0a95c1bc7b",
+    "bytes": 20585248,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0021/gaze/wobin/compression_and_gd.mat",
+    "sha256": "05c928b36f80d5ed3abac5097eaf7a9fbafbe9884272d52813d8833394c25ca7",
+    "bytes": 34344,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0022/gaze/bin/C_aligned.mat",
+    "sha256": "c6bd5f016a55ad6579585c95bdacf5fa5662ca1dc17c743a337aca0ab00ca2d0",
+    "bytes": 42443460,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0022/gaze/bin/C_reconstruction.mat",
+    "sha256": "746b434aa345d27a4a5b485818e454f4d93a8c4ce61714fa5b006c07d25c0345",
+    "bytes": 20559026,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0022/gaze/bin/compression_and_gd.mat",
+    "sha256": "5dfd2fbf9eb90c039d2eab54f2a3e9c24964288a3d5d66f9c7b4f618ae31671d",
+    "bytes": 34322,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0022/gaze/wobin/C_aligned.mat",
+    "sha256": "117c13b3b0f0637c639951d06d39f07a464e9d07cc7c30f5641fecdd54feb1c4",
+    "bytes": 42443460,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0022/gaze/wobin/C_reconstruction.mat",
+    "sha256": "114fc98d845f81111a59f160fbbe3e52e5c0dc7b3b848597e0374e0ad5216eb6",
+    "bytes": 20559026,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0022/gaze/wobin/compression_and_gd.mat",
+    "sha256": "d3610b8efc626c739a31d83f40dcce16529c0845d23727cfd03f3df1e247e6b3",
+    "bytes": 34322,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0022/stimulus/bin/C_aligned.mat",
+    "sha256": "deeffbda77b8d780aa8b0e0db89d09159fde889ecd4c29fc7a23c233e2ef76aa",
+    "bytes": 42443460,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0022/stimulus/bin/C_reconstruction.mat",
+    "sha256": "3c20656472e0d0dec79f32ca7cfeba733867f101220b59006afbb0c1f9b5c36e",
+    "bytes": 20559026,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0022/stimulus/bin/compression_and_gd.mat",
+    "sha256": "49374fd604bccaa5ce30a373cd28e9242eb5571bde1e9d3b86f0d61d0b082e03",
+    "bytes": 34322,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0023/gaze/bin/C_aligned.mat",
+    "sha256": "6291d4d6d34d8d8e1df90cf2bd8b275a82aa93fcfe1f0513131524ea6418a9de",
+    "bytes": 42216746,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0023/gaze/bin/C_reconstruction.mat",
+    "sha256": "31c89666c976b4c0ae4af047229534a1a72b839197405869cf5a92978d2e9feb",
+    "bytes": 20573152,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0023/gaze/bin/compression_and_gd.mat",
+    "sha256": "bd0a0a7c98a91b08e1850f8214b6ecbf81712ed9809d70e381220fca08442ec2",
+    "bytes": 34341,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0023/gaze/wobin/C_aligned.mat",
+    "sha256": "df41f93393895c1bc7b30501cfac55d9928f1a27ed374d899549e9447fe67f28",
+    "bytes": 42216746,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0023/gaze/wobin/C_reconstruction.mat",
+    "sha256": "09c46fa5581dd9dcdbf561c261bbcc2a4f4854fb16661cf7e428c724de45e077",
+    "bytes": 20573152,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0023/gaze/wobin/compression_and_gd.mat",
+    "sha256": "c79d1daac02017a64da7450fffe9c08795a79747311bef45fac1d37a1f18839f",
+    "bytes": 34341,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0023/stimulus/bin/C_aligned.mat",
+    "sha256": "2b0c0f822b784cda26299b1c513481bbbbea670458bd8487dad42976164e4c80",
+    "bytes": 42216746,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0023/stimulus/bin/C_reconstruction.mat",
+    "sha256": "5899280338ba5ac51fdd122a0ca6150aafb50ce192c6da27af15f6963f74e8e2",
+    "bytes": 20573152,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0023/stimulus/bin/compression_and_gd.mat",
+    "sha256": "aed6a6648cfebf52ad495555856fb267b1d8647d8c857d9aa14b7d297c3abee1",
+    "bytes": 34341,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0024/gaze/bin/C_aligned.mat",
+    "sha256": "d5c38d376c12eaa7fa60b86bd4c8636af4ebf8cf429ca29bf980e53b256b755d",
+    "bytes": 42202159,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0024/gaze/bin/C_reconstruction.mat",
+    "sha256": "e70d4131b061c735ad4ba3a5d79f6bfe9ef02282195f1d9f96ffc8886f6c6680",
+    "bytes": 20549322,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0024/gaze/bin/compression_and_gd.mat",
+    "sha256": "c1f6fa54551b01881f1b4f6eb02bd161809df1e6ef3a40dd3abd71aa84a47117",
+    "bytes": 34342,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0024/gaze/wobin/C_aligned.mat",
+    "sha256": "f7418c293e4951086d7c5346efce036f7d0afe6ba5ee729f5b1c7899f977195e",
+    "bytes": 42202159,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0024/gaze/wobin/C_reconstruction.mat",
+    "sha256": "45d2b7e9837572d536b9ce982b46ebec28250c2395caabf351e5c9fd297269c4",
+    "bytes": 20549322,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0024/gaze/wobin/compression_and_gd.mat",
+    "sha256": "44762058a495e472247e8b8b42692315d7da8157621eb13084065f47e691e73c",
+    "bytes": 34342,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0025/gaze/bin/C_aligned.mat",
+    "sha256": "ebba4f3e6457d4eee52ac4ed4fd106668881557107cb06d4e7a680b8d10be958",
+    "bytes": 42355595,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0025/gaze/bin/C_reconstruction.mat",
+    "sha256": "c0d0d99cdeb9bf537948bdf8d3ed01097125c412b70934df6e30d4d1457278b5",
+    "bytes": 20555551,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0025/gaze/bin/compression_and_gd.mat",
+    "sha256": "a8d1dc6e4338b9b94effa7a3d89631479c4d0a278ac8b6b03904a1f222c76d48",
+    "bytes": 34292,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0025/gaze/wobin/C_aligned.mat",
+    "sha256": "92737be6a4ba54d10a4301ae1c12ecb9521ac118f3066542ddb783a3f8c1879a",
+    "bytes": 42355595,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0025/gaze/wobin/C_reconstruction.mat",
+    "sha256": "6d05d0708fa3b1c01df1fba49e7a0bd792bb8bccd02be034c08f7c9ccfe39d0b",
+    "bytes": 20555551,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0025/gaze/wobin/compression_and_gd.mat",
+    "sha256": "b294243a6e4a410210a86659dc1a9c49c92960e31385323a087fff5203842cc8",
+    "bytes": 34292,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0025/stimulus/bin/C_aligned.mat",
+    "sha256": "85c8d4920e5ff0471b27d8f31127234346ca83224a2c8d4947f76313af4168c0",
+    "bytes": 42355595,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0025/stimulus/bin/C_reconstruction.mat",
+    "sha256": "37a5e6cbd6ec84aefce3244eed2669c98b876b0b550f7a1cab97c3b949548e9f",
+    "bytes": 20555551,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0025/stimulus/bin/compression_and_gd.mat",
+    "sha256": "f01e628100ac32b31431738221112e0f5a8eb6833c24dea97d94df69bfc09194",
+    "bytes": 34292,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0026/gaze/bin/C_aligned.mat",
+    "sha256": "fcbff57e1fafcaf33f6d15396a7ff742a0c37e798e9ec7f4b6cb57aaef60b629",
+    "bytes": 42138124,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0026/gaze/bin/C_reconstruction.mat",
+    "sha256": "03a6406de9fc8556939a45f2db5b0bf1cc7271d4d6348aa4907f7210ef156811",
+    "bytes": 20521971,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0026/gaze/bin/compression_and_gd.mat",
+    "sha256": "265b86f96cfdbb75f5b4873b97e6a033157969915a9816d4a5a2ded825a96a82",
+    "bytes": 34313,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0026/gaze/wobin/C_aligned.mat",
+    "sha256": "8bdec5c3e1ca8576b987c960ca04f6c6e1d5cf2aa5d286840d7a7f5df781fea7",
+    "bytes": 42138124,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0026/gaze/wobin/C_reconstruction.mat",
+    "sha256": "2ea3ea4f4bd824291d02f783e7dff11f9d42916ee1e50acdf29d3ad7d8519ec8",
+    "bytes": 20521971,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0026/gaze/wobin/compression_and_gd.mat",
+    "sha256": "27b302178aa0ddd3674f9cd6067921b9a89afa338f0920d5965e19d0a32c701d",
+    "bytes": 34313,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0026/stimulus/bin/C_aligned.mat",
+    "sha256": "30ebde9b5e6d83ce08db5b0376bcbcabd536cd522fbac5cf3bd0b0e9eaf543a2",
+    "bytes": 42138124,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0026/stimulus/bin/C_reconstruction.mat",
+    "sha256": "6f3844f48466d9bf6b6b540873081cf86f7294b4a609ddd0c3c03ce225a1eb40",
+    "bytes": 20521971,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0026/stimulus/bin/compression_and_gd.mat",
+    "sha256": "ed1b0073560e317224253a710751f0adb8f8d6b7f645b10aaba1ff095c5eeb77",
+    "bytes": 34313,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0027/stimulus/bin/C_aligned.mat",
+    "sha256": "c031a6bbf2c1cada1642746140ff028cb495f9d1e2ee6d183f84622a89f9e1b3",
+    "bytes": 42348875,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0027/stimulus/bin/C_reconstruction.mat",
+    "sha256": "5d99413b4f6f2df6ddbe3a4d96b9f479dc94f5852b0e42e726f02f4d4d4cd555",
+    "bytes": 20571201,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0027/stimulus/bin/compression_and_gd.mat",
+    "sha256": "d5793895a02dc2b1260e1d9d7838654b8d857bd94142d214babbc8bfd5d4f286",
+    "bytes": 34360,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0027/gaze/bin/C_aligned.mat",
+    "sha256": "907ec2fb0a7c12352e3b8c125601615c521e75ce5f36f161314f1fb27533fbec",
+    "bytes": 42348875,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0027/gaze/bin/C_reconstruction.mat",
+    "sha256": "a1d5c7ca28c282ff9174d812a992afad37817570775959e6f1aac1181563d62a",
+    "bytes": 20571201,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0027/gaze/bin/compression_and_gd.mat",
+    "sha256": "9ae7bffe4cd3add1bfc0549c77ef778d662933f9c72a742c35da45ee843713bb",
+    "bytes": 34360,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0027/gaze/wobin/C_aligned.mat",
+    "sha256": "20a79947404578559c94af2be8cf98811743aa9f07ef277572ec0ff1c0b0ea9b",
+    "bytes": 42348875,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0027/gaze/wobin/C_reconstruction.mat",
+    "sha256": "fc88915baae066c8e531cd7459a84c4a72e012b8d0942a498441450790785ffd",
+    "bytes": 20571201,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0027/gaze/wobin/compression_and_gd.mat",
+    "sha256": "b910dfc8174af72107a37db668ea6ddf6d1277d25fe872814892ae3766fe0ac4",
+    "bytes": 34360,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0028/stimulus/bin/C_aligned.mat",
+    "sha256": "f9414fbe742fff12032efde17a82832f17992a43a4605490b39363a944269bfc",
+    "bytes": 42515039,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0028/stimulus/bin/C_reconstruction.mat",
+    "sha256": "3e3a2cba198a0c4ae0055be3dfcdb607421507c166412870e0f889d8d650869e",
+    "bytes": 20601041,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0028/stimulus/bin/compression_and_gd.mat",
+    "sha256": "7da2bb653b0a899d5e27f9a2449653b711bf7ec35a0637f1d45f205b2eaf4260",
+    "bytes": 34351,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0028/gaze/bin/C_aligned.mat",
+    "sha256": "ec959dd213c0f4d2c8a0f4cb47d5ce70c0d2549f3c15b8e22387155cc1864ad3",
+    "bytes": 42515039,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0028/gaze/bin/C_reconstruction.mat",
+    "sha256": "c21a385bbb28e6bb27fb0be6894037138103b54a3b8c726e3efe75091f0b95a6",
+    "bytes": 20601041,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0028/gaze/bin/compression_and_gd.mat",
+    "sha256": "b2d8e484bdb533ba01fa4c630da8b57320c924a383053e697e6fc81b83c41633",
+    "bytes": 34351,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0028/gaze/wobin/C_aligned.mat",
+    "sha256": "61f195743685c4e591b7850997155b11458519787902943d224e8671dd71cf0f",
+    "bytes": 42515039,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0028/gaze/wobin/C_reconstruction.mat",
+    "sha256": "5fbe90255c22503821fcac9edd687e30dbe9caef1945e6e5fcc90d7f7d6d5a2b",
+    "bytes": 20601041,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0028/gaze/wobin/compression_and_gd.mat",
+    "sha256": "f10aa49074717a695eb4d3c78201f1bfa49592f510e05758a78a667888768909",
+    "bytes": 34351,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0029/gaze/bin/C_aligned.mat",
+    "sha256": "06fc069d7e8f750ca8622a1e2116f8e84ac5393ec06b7ebc350fbfdee307a14e",
+    "bytes": 42542441,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0029/gaze/bin/C_reconstruction.mat",
+    "sha256": "a1038c56d63d27e34f6b78cd24637bfb9a753387282d99844b5463b64392a714",
+    "bytes": 20604018,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0029/gaze/bin/compression_and_gd.mat",
+    "sha256": "a649809d513ff70c50f454d3fbfb5ee056eb268603ef81170aaa83a0a1a8086c",
+    "bytes": 34343,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0029/gaze/wobin/C_aligned.mat",
+    "sha256": "229882e24fd1aef204244e1ad2a3fe0050bc722a3b7ce39a0e603340fbe57daf",
+    "bytes": 42542441,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0029/gaze/wobin/C_reconstruction.mat",
+    "sha256": "f41c42cc34adfb1ef1a0d9f90f7904801ccc6ce8fd334ac179db626d03274ddf",
+    "bytes": 20604018,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0029/gaze/wobin/compression_and_gd.mat",
+    "sha256": "c896008519145105087de8276fe10882f235743d7acfdacc879b5fa9411580e0",
+    "bytes": 34343,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0030/stimulus/bin/C_aligned.mat",
+    "sha256": "1f972c66b8471e94b3ec4d40d5eb1c1d7e702d3fa686cf70cdc30f7e1349102b",
+    "bytes": 42209666,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0030/stimulus/bin/C_reconstruction.mat",
+    "sha256": "e2ea56216345f10f998d62809511b7962286147462e7a3d1033e083b24c6b53e",
+    "bytes": 20551111,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0030/stimulus/bin/compression_and_gd.mat",
+    "sha256": "9e77c7a904b08f26fbc32dbbbe7335250b559b461fe7f6c6078e8b39b60cbce4",
+    "bytes": 34305,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0030/gaze/bin/C_aligned.mat",
+    "sha256": "45b4227a437c144c037ae80659b9e5b83a3ba3ffb6fde5f38dc7d6fa04a1612d",
+    "bytes": 42209666,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0030/gaze/bin/C_reconstruction.mat",
+    "sha256": "a5c82ba4fa26d06d52413685940c23f987bb2e5ee563f92a3919b15f990d9f78",
+    "bytes": 20551111,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0030/gaze/bin/compression_and_gd.mat",
+    "sha256": "df09390887a498f1a547770394d9929c793a20615f25e07b864b9464c1fb3c96",
+    "bytes": 34305,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0030/gaze/wobin/C_aligned.mat",
+    "sha256": "44771494f3da2659e7f8f77a242842c422575bf49ce620fb65ee740a93173b6b",
+    "bytes": 42209666,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0030/gaze/wobin/C_reconstruction.mat",
+    "sha256": "57e0d0522ff29dea6bff9801769d0e6bcf517f896e2c142df6d3f80b9a45241e",
+    "bytes": 20551111,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0030/gaze/wobin/compression_and_gd.mat",
+    "sha256": "38cfcc3ec099add6236b85455c60bfc533b17b5a5f13fd1cec36f06b95d0b9ab",
+    "bytes": 34305,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0031/stimulus/bin/C_aligned.mat",
+    "sha256": "a285a2734b99035a69ba17a9aef4e3e96399ee979acadb5cfca9205b19f0a9ba",
+    "bytes": 42405625,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0031/stimulus/bin/C_reconstruction.mat",
+    "sha256": "997b80fc372a83d18093e96d0273527669f6950ffca2417163825528c8598668",
+    "bytes": 20593533,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0031/stimulus/bin/compression_and_gd.mat",
+    "sha256": "41c1d4e5d84cc4720425e055624bd12ef6d7fa3ef642140345a164c1367acdff",
+    "bytes": 34314,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0031/gaze/bin/C_aligned.mat",
+    "sha256": "61bbb63afc8d11829705e8d26ee5d139b0c0b3f61c2b3edf48c675ca80adc795",
+    "bytes": 42405625,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0031/gaze/bin/C_reconstruction.mat",
+    "sha256": "f607749fd857b15f96c164d06d46d340e0f7332ad6aed2c879028486809ba777",
+    "bytes": 20593533,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0031/gaze/bin/compression_and_gd.mat",
+    "sha256": "a97cc4b37a860964250e5c7390efdf28f9ac41eeb5b04a8ce86864ba85353d23",
+    "bytes": 34314,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0031/gaze/wobin/C_aligned.mat",
+    "sha256": "5bfe97682f1487ba33ba5b1ac75fd834b83dc6f15935636e12df5ddf56fbb1ad",
+    "bytes": 42405625,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0031/gaze/wobin/C_reconstruction.mat",
+    "sha256": "db56d9d81397496ee8bf0f3b0fd7e654a967463886bde833e67860282c7e4a00",
+    "bytes": 20593533,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0031/gaze/wobin/compression_and_gd.mat",
+    "sha256": "3a32690f0339c0a289b065c4c9bdb5970f18452f3f8c124c72158688d61374b9",
+    "bytes": 34314,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0032/gaze/bin/C_aligned.mat",
+    "sha256": "f5a79b0f7a0034bb762361c8ab864be482728284016dd2274ac2125cdcf18612",
+    "bytes": 42243462,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0032/gaze/bin/C_reconstruction.mat",
+    "sha256": "3e1a556e9f810cc07c7131168d9583bca629f66a708052e5d0bfd998e983ed08",
+    "bytes": 20577866,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0032/gaze/bin/compression_and_gd.mat",
+    "sha256": "e3578ec711f10e410e5f785d6197537110c7405be6b39de58fd54164128ebf09",
+    "bytes": 34278,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0032/gaze/wobin/C_aligned.mat",
+    "sha256": "e819a6ab150f903af4dca9f1dfbd919042519a9c8f95e3069035cb945eeaf953",
+    "bytes": 42243462,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0032/gaze/wobin/C_reconstruction.mat",
+    "sha256": "2986afad2eef58c733c6b387921b14527f2825156180dd07a514128ae1f958ec",
+    "bytes": 20577866,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0032/gaze/wobin/compression_and_gd.mat",
+    "sha256": "32979cbffdfe0a91529885378aeeba2bf8912770f4c2063b38f365663f72c57b",
+    "bytes": 34278,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0032/stimulus/bin/C_aligned.mat",
+    "sha256": "14417618f548e2ac39799759df20e2eb08023df16d6a2294e75ef13eee18c20f",
+    "bytes": 42243462,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0032/stimulus/bin/C_reconstruction.mat",
+    "sha256": "88dc091053139633a74c1a5e45c98966319e2f974a454a9e0e5849bf56bbd494",
+    "bytes": 20577866,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0032/stimulus/bin/compression_and_gd.mat",
+    "sha256": "22fabd70bbafc1ce9bb21c5ee78a439c871c394f3ef9911d318726f4fe9eda7a",
+    "bytes": 34278,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0033/gaze/bin/C_aligned.mat",
+    "sha256": "68d157389e2d58b9dedcfdf873ac94fec834a756a4e4cfa0c258fbefd6de6d28",
+    "bytes": 42460461,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0033/gaze/bin/C_reconstruction.mat",
+    "sha256": "9ac1da2b288886c8a33afe5079d12a2d63c05fb752a9316bedb02af9e518fa4c",
+    "bytes": 20598285,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0033/gaze/bin/compression_and_gd.mat",
+    "sha256": "b60f9910fe14208bfb32d499509b3b9260e28768ef2b2821938da36806157be9",
+    "bytes": 34335,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0033/gaze/wobin/C_aligned.mat",
+    "sha256": "6fcaa6bd3c347f4e9a306241383a4b8a8170a3fd5f8bb159afdf8b94e9f0340d",
+    "bytes": 42460461,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0033/gaze/wobin/C_reconstruction.mat",
+    "sha256": "03b770e269ab23687689c5eb930784c33949739ba5391624294ed7206c3a33be",
+    "bytes": 20598285,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0033/gaze/wobin/compression_and_gd.mat",
+    "sha256": "a9f20c96c318b1b9ad8626f196b55bfb6d2b276a77ae36fd2a15ccb3696d24ee",
+    "bytes": 34335,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0033/stimulus/bin/C_aligned.mat",
+    "sha256": "fd8a67011bf2b945293029155894d7c659b074ea478b382282451b990bff147e",
+    "bytes": 42460461,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0033/stimulus/bin/C_reconstruction.mat",
+    "sha256": "4ae81176b651c6e08d586df84d720b0a68141e525fb66ee325ee7365a59d6efc",
+    "bytes": 20598285,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0033/stimulus/bin/compression_and_gd.mat",
+    "sha256": "0b1fc0b07665b36a54ec0c16a9b77f60991b61aa54b5936aede7d0620456c718",
+    "bytes": 34335,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0034/gaze/bin/C_aligned.mat",
+    "sha256": "a70040493c56f123855af3c535b9b53f070b5f7ed64b5e61bfd2db8f08fc4938",
+    "bytes": 42385352,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0034/gaze/bin/C_reconstruction.mat",
+    "sha256": "b1f92e2d8c7d2a56b46e3f341ce7f08efb415b0b7516f903efe1e89bbf5fd9a0",
+    "bytes": 20556138,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0034/gaze/bin/compression_and_gd.mat",
+    "sha256": "de057e81493d10cd78f797a5812ad411baa859d19c0d38cd94f62ebbd8d4cbc9",
+    "bytes": 34352,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0034/gaze/wobin/C_aligned.mat",
+    "sha256": "159d79fd9da1bd2ea1ba71727cf822902bcd6b21057d6f6c76aabea678056def",
+    "bytes": 42385352,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0034/gaze/wobin/C_reconstruction.mat",
+    "sha256": "4e64e2fb9a35acbcf9139d86ba69bd861b11d5c0429fd7bf590418386c2974e5",
+    "bytes": 20556138,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0034/gaze/wobin/compression_and_gd.mat",
+    "sha256": "9e009ec9bee7a8ae4514d979d413c93cad27a867060baf89b147b6138de9e0e5",
+    "bytes": 34352,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0034/stimulus/bin/C_aligned.mat",
+    "sha256": "392b1ad8eb907b43eb29723a8da4b4617be88f6dca99ad635e5f73c11c2c4dfb",
+    "bytes": 42385352,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0034/stimulus/bin/C_reconstruction.mat",
+    "sha256": "705617fcd85245f8962bfdcbc9e47c2602d28636fdef6c4a26d4bd588bdcb1d8",
+    "bytes": 20556138,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0034/stimulus/bin/compression_and_gd.mat",
+    "sha256": "af7293ef926c781833f7b4c694c31a395a93eb82aef1d0c4922ae3937b145985",
+    "bytes": 34352,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0035/gaze/bin/C_aligned.mat",
+    "sha256": "c88f3611465853ba925d8ca628b6fd5482f9386bd04d17b3c3af7cd82149e753",
+    "bytes": 42271736,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0035/gaze/bin/C_reconstruction.mat",
+    "sha256": "70e320d47bc7705f3dc9f39368d5caa2494f19794da83bfd67ffdd469b57273c",
+    "bytes": 20573926,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0035/gaze/bin/compression_and_gd.mat",
+    "sha256": "278494c289b91dfef9bd1fc70eff15be23ec46d1e6d12802be3e476ec1104609",
+    "bytes": 34298,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0035/gaze/wobin/C_aligned.mat",
+    "sha256": "324c1203663d51a784e06bad29162144918fc1c2bf266501033ae96bfc95ebcf",
+    "bytes": 42271736,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0035/gaze/wobin/C_reconstruction.mat",
+    "sha256": "3aa674a73c08dc8e56b8275002d78a4e0997afed3bf2b7c16414975cd4db1556",
+    "bytes": 20573926,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0035/gaze/wobin/compression_and_gd.mat",
+    "sha256": "2bb4881e9e3f563ebd66cace0d7f48e578a296b53505e7ea5a2bed52cffabf31",
+    "bytes": 34298,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0035/stimulus/bin/C_aligned.mat",
+    "sha256": "7db0ea5014438a43de9670cccefdb469ad70b17a7bb371b4e3037d62618e33df",
+    "bytes": 42271736,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0035/stimulus/bin/C_reconstruction.mat",
+    "sha256": "819150fb10c7555d542dc00debf6ee010bc369638fea2a8dabaa994652f8d162",
+    "bytes": 20573926,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0035/stimulus/bin/compression_and_gd.mat",
+    "sha256": "0482cdfb6ed78ee0913bf82d6f5c1cdbb52ad322b61c691f8a6b5e4a24a6705c",
+    "bytes": 34298,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0036/gaze/bin/C_aligned.mat",
+    "sha256": "22c106ba1645816e2062129d3df42996f0557effba3cb5cf233db9207df1b75d",
+    "bytes": 42348110,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0036/gaze/bin/C_reconstruction.mat",
+    "sha256": "39d441cc59b90a535352a9e2c4e44e39f7c18ac50a6901afe8f5630fb5887fb8",
+    "bytes": 20585031,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0036/gaze/bin/compression_and_gd.mat",
+    "sha256": "18ebe6d2d9f409b74163abc03002281c26123043287f33af0a913a0f9e89a75d",
+    "bytes": 34366,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0036/gaze/wobin/C_aligned.mat",
+    "sha256": "8d0f9eb815ca9d459ce9a48ac9357c6b5aa6517038940678859f48fcca8aa48a",
+    "bytes": 42348110,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0036/gaze/wobin/C_reconstruction.mat",
+    "sha256": "6cdd3ef3609fc1e069f71facb460cff77c5c558ace9e8ded6d8af9b74ada410a",
+    "bytes": 20585031,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0036/gaze/wobin/compression_and_gd.mat",
+    "sha256": "ac8ca36e8256ae46f0a71bfd010768600dc2fbe3225508849d3fe6c6102ed74a",
+    "bytes": 34366,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0037/gaze/bin/C_aligned.mat",
+    "sha256": "5f992ab6984137b4cebd35ee708e2313c854bb74edd3a9f5ba77637a26a36265",
+    "bytes": 42202462,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0037/gaze/bin/C_reconstruction.mat",
+    "sha256": "24d5da65aa56394edd4b4f0dfc70049c4468df3ff28a38ecaa82d24c788fcc05",
+    "bytes": 20586643,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0037/gaze/bin/compression_and_gd.mat",
+    "sha256": "25bbc6cbbe1ab9e634757dae916f1c0edbd54427c029b821dc7f829656328a53",
+    "bytes": 34348,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0037/gaze/wobin/C_aligned.mat",
+    "sha256": "7928a648dba71f7e7ac17277054128f18cfc2d152e14dfb44846b516acc85fc7",
+    "bytes": 42202462,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0037/gaze/wobin/C_reconstruction.mat",
+    "sha256": "68e98503df1e98498deb13e81f58d9b0d6d64f681e620d4d7e23de3feac84c37",
+    "bytes": 20586643,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0037/gaze/wobin/compression_and_gd.mat",
+    "sha256": "c769628f882e9b51ac784fb0395dc8fe0ba2a61a6dac1f699f98ba42ddb53dd7",
+    "bytes": 34348,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0037/stimulus/bin/C_aligned.mat",
+    "sha256": "e493389f57f5e401b6941e8d64cb4a220a14d80ac70c4d0dd5a74e51e756b944",
+    "bytes": 42202462,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0037/stimulus/bin/C_reconstruction.mat",
+    "sha256": "f1263a0aeb8f9756928e2322636e87d1178f019306dcdea8cd1fd11a2c99abb2",
+    "bytes": 20586643,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0037/stimulus/bin/compression_and_gd.mat",
+    "sha256": "4afde17123a7f62af8f25c505e0a2b70f503d294a53f766210156760e154db8c",
+    "bytes": 34348,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0038/stimulus/bin/C_aligned.mat",
+    "sha256": "bb2df23a6d1e6fbaec5fb3becaf58ddc273c410d14fecf3bab1b82c5055b7d9e",
+    "bytes": 42321952,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0038/stimulus/bin/C_reconstruction.mat",
+    "sha256": "98ee228de7cef3f1f5e27c19d2e69f6a0f38c916c6c0008f880068fcc42e26aa",
+    "bytes": 20578254,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0038/stimulus/bin/compression_and_gd.mat",
+    "sha256": "0a4aa60584ddcd3153da9c98e262ac6d57d470bfe4266d0628e482178f2c2c8f",
+    "bytes": 34309,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0039/gaze/bin/C_aligned.mat",
+    "sha256": "226a9da1980e1dde4394f48bfd495f847a2db42b888478ff5b5c29139962288e",
+    "bytes": 42305230,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0039/gaze/bin/C_reconstruction.mat",
+    "sha256": "099af43558a6c7601bb07bd19745550c0bc3b8e0af856b0ddf48476f41128a04",
+    "bytes": 20584896,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0039/gaze/bin/compression_and_gd.mat",
+    "sha256": "e1dfd4b47dba500f0244baab32768dfdf67bf95a5f8663cc54003b185635c2f8",
+    "bytes": 34326,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0039/gaze/wobin/C_aligned.mat",
+    "sha256": "0e4fe588293ce358c0b995e8d1202c602b0f780bb1d91c71cd56b6cb0535c3e5",
+    "bytes": 42305230,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0039/gaze/wobin/C_reconstruction.mat",
+    "sha256": "5032ef76fd66069695369b486cda3b949255bdce5e136a7327e6f0684172ba9d",
+    "bytes": 20584896,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0039/gaze/wobin/compression_and_gd.mat",
+    "sha256": "5cd8b4ebba4374e7ec3a1a4d43b8e1a70221d5bbbb88fe48edc7edd1a4e40592",
+    "bytes": 34326,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0039/stimulus/bin/C_aligned.mat",
+    "sha256": "9989259a6b230cdc18eae4691d42b1a5e3e58eb29e4a6d60b2ee36126efa3a7c",
+    "bytes": 42305230,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0039/stimulus/bin/C_reconstruction.mat",
+    "sha256": "be8b4816a0d055becdbfbfd14c8ed05b8a1ea2ac2f9d141b1091cc5da6464162",
+    "bytes": 20584896,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0039/stimulus/bin/compression_and_gd.mat",
+    "sha256": "8657366a553be640ccc4241000527c8a8f042a23f6aca5f999616d4b578624ac",
+    "bytes": 34326,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0040/stimulus/bin/C_aligned.mat",
+    "sha256": "1f6a11ddba16ecabf11f12d0134332e41ca2443a954e97edcff0799bc4328458",
+    "bytes": 42246758,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0040/stimulus/bin/C_reconstruction.mat",
+    "sha256": "f808530ec328703d70fe662f239fc04985b5bfda656ddc5455a6149afdbc3ba0",
+    "bytes": 20606046,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0040/stimulus/bin/compression_and_gd.mat",
+    "sha256": "a38630d1eb436afe2f6617ff770c6678c8b2ace2cae04d9c4c3409c28508b675",
+    "bytes": 34361,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0040/gaze/bin/C_aligned.mat",
+    "sha256": "3f9b2f240d7e82eaf057ff890a3e9c0718d3d12b7c1dd809990467402a8a5d9d",
+    "bytes": 42246758,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0040/gaze/bin/C_reconstruction.mat",
+    "sha256": "eaa30a9e8370976a1527c8b2e6993beaa6d85fa013cc446a35565b7e1b3b8ccf",
+    "bytes": 20606046,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0040/gaze/bin/compression_and_gd.mat",
+    "sha256": "358cba69414d2652b4c3882c2d71c25fcbcc20fdec09f803d7d69c9174d5b2f9",
+    "bytes": 34361,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0040/gaze/wobin/C_aligned.mat",
+    "sha256": "74bf465f2467422683d916c04b366ecb6d44eda36617ece6a5991185bae8c52e",
+    "bytes": 42246758,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0040/gaze/wobin/C_reconstruction.mat",
+    "sha256": "eafc33e899ccd6f2827f3406596f2638c665179542fc8f954a434aa0ca135f13",
+    "bytes": 20606046,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0040/gaze/wobin/compression_and_gd.mat",
+    "sha256": "1b296a3e908713d92a1d1c032ca13d12195f26e7b4a830332c76f3710c0fd35f",
+    "bytes": 34361,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0041/gaze/bin/C_aligned.mat",
+    "sha256": "c3183389d0fd39f2d6c4bf9942c34f09f9604662ad97320dca77dab93cee4549",
+    "bytes": 42393557,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0041/gaze/bin/C_reconstruction.mat",
+    "sha256": "95facc1c5e4eed25b941285d1efade40115af5981b821770a7b8072f0f238b98",
+    "bytes": 20598349,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0041/gaze/bin/compression_and_gd.mat",
+    "sha256": "cf8e0a9e7577554b4dc51239cee962f4322b11f8c7e5cf18eaba29684a70da41",
+    "bytes": 34372,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0041/gaze/wobin/C_aligned.mat",
+    "sha256": "a696097d2f9fdbbe1100327e538d6dca52ee220393a08b70b4abd16cc0ce3444",
+    "bytes": 42393557,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0041/gaze/wobin/C_reconstruction.mat",
+    "sha256": "76441d5af415b0db6efa3901f147814c98b92fded3b4c870034b16f799f68d27",
+    "bytes": 20598349,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0041/gaze/wobin/compression_and_gd.mat",
+    "sha256": "9efdddf43b8ab9bca6f844f630f2e263e57a7fac7935111ad9e657ec13c9e706",
+    "bytes": 34372,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0041/stimulus/bin/C_aligned.mat",
+    "sha256": "4e18c61003f383ab536cec7e8820282485801f68fad7a504b60805baa9faa6c3",
+    "bytes": 42393557,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0041/stimulus/bin/C_reconstruction.mat",
+    "sha256": "f80711923cb340c54eaf276674a20e707295eb6374b8ba4bea912a604c83bd33",
+    "bytes": 20598349,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0041/stimulus/bin/compression_and_gd.mat",
+    "sha256": "6cf02f2819692d14922c044de2dbcdacee76697b3da7ee4bb8d13af9d70bd582",
+    "bytes": 34372,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0042/gaze/bin/C_aligned.mat",
+    "sha256": "f302b8bd897947162609ad78febf15bee63bc83d731bd9e0177fa40b0b94521d",
+    "bytes": 42212530,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0042/gaze/bin/C_reconstruction.mat",
+    "sha256": "cda678c460e7a5ab65c68b2c88e3fc71aac313b3a695a98b23a5f1e495b255f2",
+    "bytes": 20571119,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0042/gaze/bin/compression_and_gd.mat",
+    "sha256": "903d20ebcdc75e3fe7f8c95a72d4da0a2fbdbff5ff2ee8592de3dedeb841a407",
+    "bytes": 34290,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0042/gaze/wobin/C_aligned.mat",
+    "sha256": "e6d3b21e7066e79bfd3b12e58465e94fbaecd16e215d1aaf426f8e192d2640a3",
+    "bytes": 42212530,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0042/gaze/wobin/C_reconstruction.mat",
+    "sha256": "f0e6778c8f874c83ac52b5797d67be7282b831260cf9baed949c714b7d218637",
+    "bytes": 20571119,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0042/gaze/wobin/compression_and_gd.mat",
+    "sha256": "81b725e77abbfb17d1ee663fbad83246d150df5b64712cb97660423820febf5b",
+    "bytes": 34290,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0042/stimulus/bin/C_aligned.mat",
+    "sha256": "a82a58ae1aa910ab212ade0f95eef58a98ce21582fa14e20db2cc727ca08feed",
+    "bytes": 42212530,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0042/stimulus/bin/C_reconstruction.mat",
+    "sha256": "1bd2e8d0fe9feec838395022e0b11dd748a0aae2e877fbeacb633377df7d3853",
+    "bytes": 20571119,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0042/stimulus/bin/compression_and_gd.mat",
+    "sha256": "7083da5a9f4f1adc28f62b2f1af83dacbb62f4c69e316964c73cbd26ef1299d7",
+    "bytes": 34290,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0043/stimulus/bin/C_aligned.mat",
+    "sha256": "f115d1ba77b260b7ec4349402ba98572c84e189d5e1b5a14543a0d8f69efa605",
+    "bytes": 42298843,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0043/stimulus/bin/C_reconstruction.mat",
+    "sha256": "46dd703de5fc7e59b0c130841fd18f0bda5442750524884e194db1e97db55ccb",
+    "bytes": 20531657,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0043/stimulus/bin/compression_and_gd.mat",
+    "sha256": "f0a4264944ee359a747b0d85f2b2d6e720a65fe953f53d3d7bddd189694c35d6",
+    "bytes": 34359,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0043/gaze/bin/C_aligned.mat",
+    "sha256": "e019a422cb7ba98d04e92ceb721f4e47670efacafd858889a73d8ce2a984e8e4",
+    "bytes": 42298843,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0043/gaze/bin/C_reconstruction.mat",
+    "sha256": "5b11922832c8fc82efe4a56074552efbe3553598856463697822cf2485fb1a3b",
+    "bytes": 20531657,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0043/gaze/bin/compression_and_gd.mat",
+    "sha256": "67e99c57401d9d149cf9d2804c056789821fbd2fa7c348633b1a49e0b6d7cfbe",
+    "bytes": 34359,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0043/gaze/wobin/C_aligned.mat",
+    "sha256": "e3be8320ba524abbecfb24c3695697214d0f66ea432e93af10d2779d4758a535",
+    "bytes": 42298843,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0043/gaze/wobin/C_reconstruction.mat",
+    "sha256": "7437a232739e259370ce0f06d3f3937c71c1039c9e768935b03ed7f0975458d8",
+    "bytes": 20531657,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0043/gaze/wobin/compression_and_gd.mat",
+    "sha256": "a4574d5b1279b55985556b5126ec9a91900bdc5eb1947fa435534a09d011d597",
+    "bytes": 34359,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0044/gaze/bin/C_aligned.mat",
+    "sha256": "6e99d4681b5dacfd9fc3b57fbf322496fd33fdb689460015abcf4a52eb1b0c1f",
+    "bytes": 42398915,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0044/gaze/bin/C_reconstruction.mat",
+    "sha256": "1a0e89525e7f9ee97726946fe78eb8099841f616c8ef865dfb99a81352dc4c4d",
+    "bytes": 20593679,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0044/gaze/bin/compression_and_gd.mat",
+    "sha256": "95babd88ada0cf232e63ad3621d4f402976f6906fa4f512cebec4482eb9f3f5d",
+    "bytes": 34404,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0044/gaze/wobin/C_aligned.mat",
+    "sha256": "da7f530625c28ba3fc42f86ba601ff88889df95fcee6847aa94086269e6341ba",
+    "bytes": 42398915,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0044/gaze/wobin/C_reconstruction.mat",
+    "sha256": "227dbc7b0bbacbedc44df6f47de7db148eef24c2d1f4bf03371157caf61f69c5",
+    "bytes": 20593679,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0044/gaze/wobin/compression_and_gd.mat",
+    "sha256": "151789fc0d5e3f167073c08cba815566ebc71eacc69b8f8c5a118563dca7195a",
+    "bytes": 34404,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0045/gaze/bin/C_aligned.mat",
+    "sha256": "76cb07e582701d8e9372257d90360841112f562c9990156deae6f74a3598ed6e",
+    "bytes": 42445007,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0045/gaze/bin/C_reconstruction.mat",
+    "sha256": "1228e6ba6bb8145c366355339a394f6a92dfd1b1dd770c89a285d8b429e3b6e0",
+    "bytes": 20592914,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0045/gaze/bin/compression_and_gd.mat",
+    "sha256": "63b5492ac939488cd8b5358c1faba5b496485822920a4ca8eeff38814dfdf9e7",
+    "bytes": 34262,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0045/gaze/wobin/C_aligned.mat",
+    "sha256": "ffbb0539a9c3df92954a8a70c7fc144c2b6bb2da4117252fca82814a1d5a2237",
+    "bytes": 42445007,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0045/gaze/wobin/C_reconstruction.mat",
+    "sha256": "f4e1ddee74b277496b340c493aedd8f04df728583e937461e0cbaf9255c67a7d",
+    "bytes": 20592914,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0045/gaze/wobin/compression_and_gd.mat",
+    "sha256": "f916454cf8e3af96af20e97389909a3d70a9a6369764412e2aa3d49d1db9ccfb",
+    "bytes": 34262,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0046/gaze/bin/C_aligned.mat",
+    "sha256": "0179d313d859bfff3aa8b46c0a14cfe09a847ca5bb81812908c3aec525adc099",
+    "bytes": 42311961,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0046/gaze/bin/C_reconstruction.mat",
+    "sha256": "4c1c0d8e3f2b651b858580ea1b21649a153ce62b30e752110b06293704328901",
+    "bytes": 42311961,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0046/gaze/bin/compression_and_gd.mat",
+    "sha256": "c2c7f9c94bac09a78cf8f8918d20306f361e77dea93e56fbbc6249597f32982e",
+    "bytes": 11728,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0046/gaze/wobin/C_aligned.mat",
+    "sha256": "a05c7c33b4017521e927fe084eecd17865d4df24451b5f21c486309166d57ae9",
+    "bytes": 42311961,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0046/gaze/wobin/C_reconstruction.mat",
+    "sha256": "736e03c9f1d1eb1e8bd46810416a23816c43e6bf13124492c7fc058c59850034",
+    "bytes": 42311961,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0046/gaze/wobin/compression_and_gd.mat",
+    "sha256": "9714422bfd4c6b4734c1fd2d694a123080437a05167ac43bad430d4135e738cd",
+    "bytes": 11728,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0047/gaze/bin/C_aligned.mat",
+    "sha256": "a6c9a80762c3735e81bfb4b26a2373d91eac8aa2be05be5e5d3411a69f374626",
+    "bytes": 41805388,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0047/gaze/bin/C_reconstruction.mat",
+    "sha256": "ecd6c5df7a03374ce2db6ec09ce6c91b49ade777b9c367652912c8ac42b9a74e",
+    "bytes": 41805388,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0047/gaze/bin/compression_and_gd.mat",
+    "sha256": "ba08b9a5b6cc9f65e9c5f5937f64e13a55d9748e2d9fb40f69b0f48700f1eaac",
+    "bytes": 11728,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0047/gaze/wobin/C_aligned.mat",
+    "sha256": "c639f407e27dde71ca5dd38c2f55c5bbd5c84ed2ef5b74a94d8f26b59fb7a935",
+    "bytes": 41805388,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0047/gaze/wobin/C_reconstruction.mat",
+    "sha256": "57f3f525f6d3a7fffa3a2212e258552c87db6753273c100155d24e75629fca5b",
+    "bytes": 41805388,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0047/gaze/wobin/compression_and_gd.mat",
+    "sha256": "a2a5a625bd622e53e6ce0a835bde1ec684764d922d86f4eccb0543276b0417a6",
+    "bytes": 11728,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0048/gaze/bin/C_aligned.mat",
+    "sha256": "76558d0be9fa3751dafc8089776c3c7e27d96aa4199882d7b53c9f6a8ab2a2f8",
+    "bytes": 42513399,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0048/gaze/bin/C_reconstruction.mat",
+    "sha256": "b053927f46e6779de99b266c5d5ac5592a853646269a085602d21bdfdb5a6b9c",
+    "bytes": 20591270,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0048/gaze/bin/compression_and_gd.mat",
+    "sha256": "37094c5d5c98dde45b1debc545d7b87c6a05ab1b846ad6e2574ab1db865532ee",
+    "bytes": 34417,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0048/gaze/wobin/C_aligned.mat",
+    "sha256": "7e68ac693b57dfb6c7725df888c049e9557f09453c7ec9e458ea62ce0ab65dbb",
+    "bytes": 42513399,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0048/gaze/wobin/C_reconstruction.mat",
+    "sha256": "b9b8abcc058232a7789af6bb5b472c8f0518c6cb1691808172042d0a30e80162",
+    "bytes": 20591270,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0048/gaze/wobin/compression_and_gd.mat",
+    "sha256": "66e08fa64e7c21a3f5299bbdae3f0d749b63ecaad9a46574725c942702dca9db",
+    "bytes": 34417,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0048/stimulus/bin/C_aligned.mat",
+    "sha256": "31b736a512ddb7bea48418c85188ff6c91b3c95fa9f3c6190921202c82643f92",
+    "bytes": 42513399,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0048/stimulus/bin/C_reconstruction.mat",
+    "sha256": "c0a095dbeae387dea9d54187a523fe527ddda3170d04f5bca24c323caefc46d6",
+    "bytes": 20591270,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0048/stimulus/bin/compression_and_gd.mat",
+    "sha256": "169d067a46c4a9b47c2a372f100d8c6b5fbbb6b34fa41198bb861d224eda4f21",
+    "bytes": 34417,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0049/stimulus/bin/C_aligned.mat",
+    "sha256": "6c9f313723d0bd743c97d3deb038a2005c505a6010132f11177dbc3c1df0e65a",
+    "bytes": 42226914,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0049/stimulus/bin/C_reconstruction.mat",
+    "sha256": "cdbd9d13c147379eb51870377acc0603b77e57821aac2650c213e04f19ca82c1",
+    "bytes": 20619779,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0049/stimulus/bin/compression_and_gd.mat",
+    "sha256": "a21485ca5fb73a6b1d1234974618d53b5910cb89dd1a392db3ff4458466ef98a",
+    "bytes": 34325,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0049/gaze/bin/C_aligned.mat",
+    "sha256": "9f6593e2bd5ec42a57c7fbf64477db3fbc11e35b0e884657828198357f165cec",
+    "bytes": 42226914,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0049/gaze/bin/C_reconstruction.mat",
+    "sha256": "f43dc7a450f91adfc94b141214c4bc52aca8feb8b98cf50a8b83409155833888",
+    "bytes": 20619779,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0049/gaze/bin/compression_and_gd.mat",
+    "sha256": "5f5f43fa6e1d56581718c0cfa21724a5d89d28c1e6d2f692a544a4bf78e3f74e",
+    "bytes": 34325,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0049/gaze/wobin/C_aligned.mat",
+    "sha256": "04d05c97b9e4d6e24dac4ab93e81704ab1ba4812e2b7607a306d722fa1a59a8b",
+    "bytes": 42226914,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0049/gaze/wobin/C_reconstruction.mat",
+    "sha256": "6d17bdaf39c0e9008ad46ba85d1cff85615beb1ab64e9e587962966a3fbcbd85",
+    "bytes": 20619779,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0049/gaze/wobin/compression_and_gd.mat",
+    "sha256": "fade4a4366ecadf62dc258c5af062fefe2ffa91946c464d4aeaabe8055814caa",
+    "bytes": 34325,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0050/gaze/bin/C_aligned.mat",
+    "sha256": "bdfec03ba9bf69e7450c0f10fb8bdb8f5a86feb0bd7eb593bf0c965c0a3cdee4",
+    "bytes": 42469413,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0050/gaze/bin/C_reconstruction.mat",
+    "sha256": "1ec77512e28e19b1ae3d8b2e8a85f97a31faabe8039ea91b76d150c07d0ed991",
+    "bytes": 20606325,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0050/gaze/bin/compression_and_gd.mat",
+    "sha256": "268540cb207682058dec4b069ce3ed44d225ab2202aaeb630f20e32d4446d4d6",
+    "bytes": 34338,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0050/gaze/wobin/C_aligned.mat",
+    "sha256": "a91dd78e40ccde8ba9cb91f4435f88cb456764b91c1070e3147da6227ad3a63a",
+    "bytes": 42469413,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0050/gaze/wobin/C_reconstruction.mat",
+    "sha256": "3d7a95960321459ba3996f117c895ce7a598d9f87d0391c193806a98b8c65771",
+    "bytes": 20606325,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0050/gaze/wobin/compression_and_gd.mat",
+    "sha256": "8eeb3650c5e19de027dde0ac75d54a0295d42978893b6107559be5868bfefd12",
+    "bytes": 34338,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0050/stimulus/bin/C_aligned.mat",
+    "sha256": "98bae26b4adb2ec348a0656a0953cfbb68c209f09ff896e103eaac76d2cdae3a",
+    "bytes": 42469413,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0050/stimulus/bin/C_reconstruction.mat",
+    "sha256": "4e02e653f0943cf4f2719f6b1871395645b3d2dd427065242510c4a5a7f9f23b",
+    "bytes": 20606325,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreyetrack-binning/sub-0050/stimulus/bin/compression_and_gd.mat",
+    "sha256": "977b8b38be968c4fc736558b183e9b04b8aee192bb6ffb546bd716dd5a2d1e5b",
+    "bytes": 34338,
+    "association": "Calibration array for this acquisition/branch; axes and dimensions are described in the sibling acquisition_metadata.json and geometry.json."
+  },
+  {
+    "file": "derivatives/mreye-binning/sub-pilot01/ses-01/calibration/C.mat",
+    "sha256": "fbe43a50e4eb6b950e82293730d884463ddf3e5c8035486220ff3d13cc014f80",
+    "bytes": 42115866,
+    "association": "Pilot session calibration coefficients in stored MATLAB array order; numeric values are unchanged."
+  },
+  {
+    "file": "derivatives/mreye-binning/sub-pilot01/ses-02/calibration/C.mat",
+    "sha256": "07210a72fd10189032313892ccfde235b1747e6c6b47af1445183ca8a95b6e0f",
+    "bytes": 42202075,
+    "association": "Pilot session calibration coefficients in stored MATLAB array order; numeric values are unchanged."
+  }
+]

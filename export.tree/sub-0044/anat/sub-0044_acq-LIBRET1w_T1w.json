@@ -1,0 +1,20 @@
+{
+  "SkullStripped": false,
+  "Description": "T1w selected-bin MRI volume.",
+  "Contrast": "T1w",
+  "ReconstructionRole": "selected",
+  "IQMMasks": {
+    "tissues": "bids:masks:sub-0044/anat/sub-0044_acq-LIBRET1w_rec-selected_desc-tissues_dseg.nii.gz",
+    "sides": "bids:masks:sub-0044/anat/sub-0044_acq-LIBRET1w_rec-selected_desc-sides_dseg.nii.gz",
+    "background": "bids:masks:sub-0044/anat/sub-0044_acq-LIBRET1w_rec-selected_desc-background_mask.nii.gz",
+    "orbitalcrop": "bids:masks:sub-0044/anat/sub-0044_acq-LIBRET1w_rec-selected_desc-orbitalcrop_mask.nii.gz",
+    "envelopeleft": "bids:masks:sub-0044/anat/sub-0044_acq-LIBRET1w_rec-selected_desc-envelopeleft_mask.nii.gz",
+    "enveloperight": "bids:masks:sub-0044/anat/sub-0044_acq-LIBRET1w_rec-selected_desc-enveloperight_mask.nii.gz",
+    "envelopebilateral": "bids:masks:sub-0044/anat/sub-0044_acq-LIBRET1w_rec-selected_desc-envelopebilateral_mask.nii.gz"
+  },
+  "AcquisitionMID": "MID44240",
+  "SessionIdentityStatus": "not established; no session entity invented",
+  "SelectionRule": "minimum EFC among eligible binned LIBRE candidates; no-bin/native is excluded",
+  "MaskCleanThreshold": 0.3,
+  "EMaskMethod": "win3_th0.90_cleanMorph"
+}

@@ -1,0 +1,12 @@
+{
+  "SpatialReference": "bids:images:sub-0002/anat/sub-0002_acq-VIBE_T1w.nii.gz",
+  "Description": "Exact evaluated sides map for T1w vibe; no regeneration or resampling.",
+  "EvaluatedImage": "bids:images:sub-0002/anat/sub-0002_acq-VIBE_T1w.nii.gz",
+  "MaskRole": "sides",
+  "GridMatchesEvaluatedImage": true,
+  "LabelMap": {
+    "0": "outside",
+    "1": "left",
+    "2": "right"
+  }
+}

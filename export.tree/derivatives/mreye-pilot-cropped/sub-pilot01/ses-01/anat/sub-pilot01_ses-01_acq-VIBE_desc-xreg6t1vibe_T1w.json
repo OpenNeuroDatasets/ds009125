@@ -1,0 +1,20 @@
+{
+  "Description": "existing cropped or registered pilot image; existing voxel values, array dimensions and spatial affine are preserved. Source variant labels have not been independently revalidated.",
+  "AcquisitionMID": "MID00248",
+  "Shape": [
+    208,
+    137,
+    94
+  ],
+  "VoxelSize_mm": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "Sources": [
+    "bids:images:sub-pilot01/ses-02/anat/sub-pilot01_ses-02_acq-VIBE_T1w.nii.gz"
+  ],
+  "SpatialReference": "Existing source NIfTI affine; no new registration, cropping or orientation validation was performed.",
+  "VIBESourceSession": "ses-02",
+  "SkullStripped": false
+}

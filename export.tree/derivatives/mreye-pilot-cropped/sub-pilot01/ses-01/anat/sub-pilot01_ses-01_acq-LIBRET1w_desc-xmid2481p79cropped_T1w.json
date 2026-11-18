@@ -1,0 +1,19 @@
+{
+  "Description": "existing cropped or registered pilot image; existing voxel values, array dimensions and spatial affine are preserved. Source variant labels have not been independently revalidated.",
+  "AcquisitionMID": "MID00248",
+  "Shape": [
+    208,
+    137,
+    94
+  ],
+  "VoxelSize_mm": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "Sources": [
+    "bids:images:sourcedata/sub-pilot01/ses-01/rawdata/meas_MID00248_LIBRET1w.dat.7z"
+  ],
+  "SpatialReference": "Existing source NIfTI affine; no new registration, cropping or orientation validation was performed.",
+  "SkullStripped": false
+}

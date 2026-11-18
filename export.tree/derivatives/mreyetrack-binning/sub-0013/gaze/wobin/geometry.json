@@ -1,0 +1,47 @@
+{
+  "slice_prescription": {
+    "dThickness": 120,
+    "dPhaseFOV": 120,
+    "dReadoutFOV": 120,
+    "dInPlaneRot": 1.53728600516,
+    "sPosition": {
+      "dSag": -1.98060528759,
+      "dCor": -38.615757178,
+      "dTra": -6.14627684599
+    },
+    "sNormal": {
+      "dSag": -0.092864,
+      "dCor": -0.047606,
+      "dTra": 0.99454
+    }
+  },
+  "first_mdh_position_quaternion": [
+    -1.9806052446365356,
+    -38.61575698852539,
+    -6.146276950836182,
+    0.9985119104385376,
+    0.023105382919311523,
+    -0.0468626469373703,
+    0.015620101243257523
+  ],
+  "grid_size": [
+    480,
+    480,
+    480
+  ],
+  "FOV_mm": [
+    240,
+    240,
+    240
+  ],
+  "voxel_mm": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "array_orientation": "MONALISA nominal Pulseq axes; no display reorientation applied",
+  "C_alignment": {
+    "scope": "Array orientation and physical channel mapping checked; fine registration not established",
+    "header_resampling_applied": false
+  }
+}

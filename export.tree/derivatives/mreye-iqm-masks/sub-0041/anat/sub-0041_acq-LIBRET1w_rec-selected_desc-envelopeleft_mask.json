@@ -1,0 +1,8 @@
+{
+  "SpatialReference": "bids:images:sub-0041/anat/sub-0041_acq-LIBRET1w_T1w.nii.gz",
+  "Description": "Exact evaluated envelopeleft map for T1w selected; no regeneration or resampling.",
+  "EvaluatedImage": "bids:images:sub-0041/anat/sub-0041_acq-LIBRET1w_T1w.nii.gz",
+  "MaskRole": "envelopeleft",
+  "GridMatchesEvaluatedImage": true,
+  "Type": "ROI"
+}

@@ -1,0 +1,61 @@
+{
+  "participant_id": "sub-0042",
+  "AcquisitionMID": "MID42077",
+  "SequenceFile": "sourcedata/pulseq/yj_seq202_t1w_libre_main_TR8.0ms_TE3.6ms_swap1_FA6_RF2_mreye_track_trajPTP_44_1872_gdsp.seq",
+  "SequenceMD5": "300fef9d63294e100cf54e655f22564f",
+  "ReadoutMask": "derivatives/mreyetrack-binning/sub-0042/stimulus/bin/eMask_effective.mat",
+  "MaskVariable": "eMask",
+  "MaskShape": [
+    5,
+    82368
+  ],
+  "MaskDataType": "logical",
+  "MaskRowLabels": [
+    "up",
+    "down",
+    "left",
+    "right",
+    "center"
+  ],
+  "MaskColumnOrder": "Full acquired readout order; excluded readouts have zero mask values.",
+  "FrameMeasurements": "derivatives/mreyetrack-binning/sub-0042/stimulus/bin/frames.tsv",
+  "Segments": 44,
+  "Shots": 1872,
+  "SamplesPerReadout": 480,
+  "PhysicalChannels": 52,
+  "CompressedChannels": 25,
+  "InitialShotsExcluded": 55,
+  "MatrixSize": 480,
+  "FieldOfView_mm": 240,
+  "CalibrationAxisPermutation": [
+    2,
+    1,
+    3
+  ],
+  "CalibrationAxisFlips": [
+    0,
+    1,
+    0
+  ],
+  "Geometry": "derivatives/mreyetrack-binning/sub-0042/stimulus/bin/geometry.json",
+  "CalibrationFiles": [
+    "derivatives/mreyetrack-binning/sub-0042/stimulus/bin/C_aligned.mat",
+    "derivatives/mreyetrack-binning/sub-0042/stimulus/bin/C_reconstruction.mat",
+    "derivatives/mreyetrack-binning/sub-0042/stimulus/bin/compression_and_gd.mat"
+  ],
+  "DirectionalGrouping": "displayed_stimulus_direction",
+  "FrameQualityDefinition": {
+    "R4": "0.2 × discrete sphere voxel count / occupied voxel count; corner voxels excluded.",
+    "pass_R4_max": 2.5,
+    "low_R4_max": 10
+  },
+  "StimulusGrouping": {
+    "assumes_participant_followed_displayed_target": true,
+    "measured_gaze_used": false,
+    "partial_EDF_recovery": false,
+    "first_PMU_reset_from_first_image_ms": 5895
+  },
+  "StimulusIntervals": "derivatives/mreyetrack-binning/sub-0042/stimulus/bin/source_records/stimulus_intervals.tsv",
+  "OriginalDATFile": "meas_MID42077_FID33783_mreye_track.dat",
+  "RawDataIncluded": false
+}
