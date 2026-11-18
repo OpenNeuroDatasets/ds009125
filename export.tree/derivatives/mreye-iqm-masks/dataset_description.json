@@ -1,0 +1,42 @@
+{
+  "Name": "MR-Eye 2.0 mreye-iqm-masks — 50 participants",
+  "BIDSVersion": "1.11.2",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "MR-Eye organization",
+      "Description": "Source-preserving organization of existing products; no new scientific processing."
+    }
+  ],
+  "DatasetLinks": {
+    "images": "../..",
+    "track": "../..",
+    "masks": "../mreye-iqm-masks"
+  },
+  "Description": "2,100 image-bound tissue, side, background, orbital-crop and orbital-envelope masks for the 300 anatomical MRI images. Label definitions and image associations are included.",
+  "Authors": [
+    "Yiwei Jia",
+    "Bastien Milani",
+    "Jaime Barranco",
+    "Berk Can Açikgöz",
+    "Mauro Leidi",
+    "Eleonora Fornari",
+    "Jean-Baptiste Ledoux",
+    "Helene Vitali",
+    "Oscar Esteban",
+    "Jessica A.M. Bastiaansen",
+    "Benedetta Franceschiello"
+  ],
+  "License": "CC0",
+  "Funding": [
+    "Swiss National Science Foundation grant 220433 (PI: Franceschiello)",
+    "Swiss National Science Foundation grant 185872 (PI: Esteban)",
+    "University of Applied Sciences and Arts Western Switzerland (HES-SO), grant 129816/IA-RECHERCHE23-19 (PIs: Franceschiello, Raileanu)"
+  ],
+  "EthicsApprovals": [
+    "Swiss BASEC protocol 2024-00165; positive local Ethics Committee approval on 27 June 2024."
+  ],
+  "ReferencesAndLinks": [
+    "https://mattechlab.github.io/sops/debi/data-collection/data-collection_DEBI_protocol/"
+  ]
+}

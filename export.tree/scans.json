@@ -1,0 +1,6 @@
+{
+  "sha256": {
+    "Description": "SHA-256 of the exact stored compressed NIfTI image bytes."
+  },
+  "Description": "Image membership and integrity checksums for this participant; acquisition timestamps are not provided."
+}

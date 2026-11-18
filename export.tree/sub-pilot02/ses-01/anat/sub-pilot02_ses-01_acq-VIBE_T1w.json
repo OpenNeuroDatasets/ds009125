@@ -1,0 +1,20 @@
+{
+  "Description": "Pilot scanner VIBE reference converted from enhanced MR DICOM; pixel values after the recorded DICOM rescale and frame geometry are preserved.",
+  "Manufacturer": "Siemens Healthineers",
+  "ManufacturersModelName": "MAGNETOM Prisma Fit",
+  "MagneticFieldStrength": 3.0,
+  "MRAcquisitionType": "3D",
+  "SkullStripped": false,
+  "SourceDICOM": "sourcedata/sub-pilot02/ses-01/rawdata/dicom/sub-pilot02_ses-01_acq-VIBE_T1w.dcm",
+  "SpatialReference": "Scanner geometry from DICOM; LPS coordinates converted to NIfTI RAS.",
+  "Shape": [
+    324,
+    384,
+    56
+  ],
+  "VoxelSize_mm": [
+    0.4791669249534607,
+    0.4791669249534607,
+    0.4999992847442627
+  ]
+}

@@ -1,0 +1,6 @@
+gaze	source_readouts	retained_readouts	diagnostic_only	R4	quality_label	reconstruction_status	skip_reason	minimum_readouts
+up	13221	13221	0	2.36167166443252	pass	RECONSTRUCTED		1000
+down	13685	13685	0	2.28764953734368	pass	RECONSTRUCTED		1000
+left	41	21	1	1230.93995079688	diagnostic_only_above_R4_10	SKIPPED	insufficient_readouts	1000
+right	13138	13138	0	2.38425553920204	pass	RECONSTRUCTED		1000
+center	4261	3235	0	9.12006086350092	low R	RECONSTRUCTED		1000
