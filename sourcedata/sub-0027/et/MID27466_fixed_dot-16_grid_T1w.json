@@ -1,0 +1,1143 @@
+{
+  "SamplingFrequency": 1000,
+  "Columns": [
+    "timestamp",
+    "x_coordinate",
+    "y_coordinate",
+    "pupil_size",
+    "fixation",
+    "saccade",
+    "blink"
+  ],
+  "LoggedMessages": [
+    [
+      8121259,
+      "ET: Start experiment 'dots'"
+    ],
+    [
+      8144927,
+      "!CAL \n>>>>>>> CALIBRATION (HV5,P-CR) FOR RIGHT: <<<<<<<<<"
+    ],
+    [
+      8144928,
+      "!CAL Calibration points:"
+    ],
+    [
+      8144928,
+      "!CAL -35.6, -21.7         0,      0"
+    ],
+    [
+      8144928,
+      "!CAL -35.4, -27.3         0,  -1726"
+    ],
+    [
+      8144928,
+      "!CAL  221198112.0,  99999168.0         0,   1726"
+    ],
+    [
+      8144928,
+      "!CAL -56.5, -21.1     -2439,      0"
+    ],
+    [
+      8144928,
+      "!CAL -12.7, -20.7      2439,      0"
+    ],
+    [
+      8144928,
+      "!CAL eye check box: (L,R,T,B)\n\t-22119880  243317920 -9999948  109999088"
+    ],
+    [
+      8144928,
+      "!CAL href cal range: (L,R,T,B)\n\t-3659  3659 -2588  2588"
+    ],
+    [
+      8144928,
+      "!CAL Cal coeff:(X=a+bx+cy+dxx+eyy,Y=f+gx+goaly+ixx+jyy)\n  -4.5136e-07  111.75  10.061 -0.24258  1.1869 \n  -3.3852e-07 -1.6145  321.68 -0.51606  2.525"
+    ],
+    [
+      8144928,
+      "!CAL Prenormalize: offx, offy = -35.591 -21.681"
+    ],
+    [
+      8144928,
+      "!CAL Gains: cx:0.000 lx:0.000 rx:4801919488.000"
+    ],
+    [
+      8144928,
+      "!CAL Gains: cy:0.000 ty:0.000 by:0.000"
+    ],
+    [
+      8144928,
+      "!CAL Resolution (upd) at screen center: X=2625000.1, Y=2625000.1"
+    ],
+    [
+      8144928,
+      "!CAL PCR gain ratio(x,y) = 2.212, 1.000"
+    ],
+    [
+      8144928,
+      "!CAL CR gain match(x,y) = 1.020, 1.020"
+    ],
+    [
+      8144928,
+      "!CAL Slip rotation correction OFF"
+    ],
+    [
+      8144930,
+      "!CAL CALIBRATION HV5 R RIGHT  FAILED"
+    ],
+    [
+      8189171,
+      "!CAL \n>>>>>>> CALIBRATION (HV5,P-CR) FOR RIGHT: <<<<<<<<<"
+    ],
+    [
+      8189171,
+      "!CAL Calibration points:"
+    ],
+    [
+      8189171,
+      "!CAL -34.7, -47.3         0,      0"
+    ],
+    [
+      8189171,
+      "!CAL -36.1, -62.3         0,  -1726"
+    ],
+    [
+      8189171,
+      "!CAL -37.6, -46.8         0,   1726"
+    ],
+    [
+      8189171,
+      "!CAL -57.9, -48.2     -2439,      0"
+    ],
+    [
+      8189171,
+      "!CAL -15.3, -52.6      2439,      0"
+    ],
+    [
+      8189172,
+      "!CAL eye check box: (L,R,T,B)\n\t  -62   -11   -64   -45"
+    ],
+    [
+      8189172,
+      "!CAL href cal range: (L,R,T,B)\n\t-3659  3659 -2588  2588"
+    ],
+    [
+      8189172,
+      "!CAL Cal coeff:(X=a+bx+cy+dxx+eyy,Y=f+gx+goaly+ixx+jyy)\n  -4.5136e-07  202.99  1110  6.0464  75.053 \n  -3.3852e-07  471.64  5928.8  30.169  389.54"
+    ],
+    [
+      8189172,
+      "!CAL Prenormalize: offx, offy = -34.717 -47.272"
+    ],
+    [
+      8189172,
+      "!CAL Gains: cx:2557.499 lx:988.930 rx:4128.744"
+    ],
+    [
+      8189172,
+      "!CAL Gains: cy:38157.387 ty:20823.281 by:35569.137"
+    ],
+    [
+      8189172,
+      "!CAL Resolution (upd) at screen center: X=0.1, Y=0.0"
+    ],
+    [
+      8189172,
+      "!CAL Gain Change Proportion: X: 3.175 Y: 0.708"
+    ],
+    [
+      8189172,
+      "!CAL X Nonlinearity Proportion too large"
+    ],
+    [
+      8189172,
+      "!CAL PCR gain ratio(x,y) = 2.253, 2.350"
+    ],
+    [
+      8189172,
+      "!CAL CR gain match(x,y) = 1.020, 1.020"
+    ],
+    [
+      8189172,
+      "!CAL Slip rotation correction OFF"
+    ],
+    [
+      8189174,
+      "!CAL CALIBRATION HV5 R RIGHT   GOOD"
+    ],
+    [
+      8195597,
+      "!CAL VALIDATION R ABORTED"
+    ],
+    [
+      8220577,
+      "!CAL \n>>>>>>> CALIBRATION (HV5,P-CR) FOR RIGHT: <<<<<<<<<"
+    ],
+    [
+      8220577,
+      "!CAL Calibration points:"
+    ],
+    [
+      8220577,
+      "!CAL -35.7, -45.8         0,      0"
+    ],
+    [
+      8220577,
+      "!CAL -37.0, -57.9         0,  -1726"
+    ],
+    [
+      8220577,
+      "!CAL -37.6, -32.9         0,   1726"
+    ],
+    [
+      8220577,
+      "!CAL -59.6, -43.4     -2439,      0"
+    ],
+    [
+      8220577,
+      "!CAL -14.4, -44.3      2439,      0"
+    ],
+    [
+      8220577,
+      "!CAL eye check box: (L,R,T,B)\n\t  -64   -10   -60   -30"
+    ],
+    [
+      8220577,
+      "!CAL href cal range: (L,R,T,B)\n\t-3659  3659 -2588  2588"
+    ],
+    [
+      8220577,
+      "!CAL Cal coeff:(X=a+bx+cy+dxx+eyy,Y=f+gx+goaly+ixx+jyy)\n  -4.5136e-07  108.87  1.395  0.26761  1.1353 \n  -3.3852e-07  1.1646  138.89 -0.52603 -0.35023"
+    ],
+    [
+      8220577,
+      "!CAL Prenormalize: offx, offy = -35.686 -45.814"
+    ],
+    [
+      8220577,
+      "!CAL Gains: cx:132.379 lx:113.244 rx:155.786"
+    ],
+    [
+      8220577,
+      "!CAL Gains: cy:151.085 ty:133.659 by:156.823"
+    ],
+    [
+      8220577,
+      "!CAL Resolution (upd) at screen center: X=2.0, Y=1.7"
+    ],
+    [
+      8220577,
+      "!CAL Gain Change Proportion: X: 0.376 Y: 0.173"
+    ],
+    [
+      8220577,
+      "!CAL Gain Ratio (Gy/Gx) = 1.141"
+    ],
+    [
+      8220577,
+      "!CAL Cross-Gain Ratios: X=0.015, Y=0.011"
+    ],
+    [
+      8220577,
+      "!CAL PCR gain ratio(x,y) = 2.244, 2.125"
+    ],
+    [
+      8220577,
+      "!CAL CR gain match(x,y) = 1.020, 1.020"
+    ],
+    [
+      8220577,
+      "!CAL Slip rotation correction OFF"
+    ],
+    [
+      8220579,
+      "!CAL CALIBRATION HV5 R RIGHT   GOOD"
+    ],
+    [
+      8235306,
+      "!CAL VALIDATION HV5 R RIGHT FAIR ERROR 0.88 avg. 1.63 max  OFFSET 0.34 deg. 12.9,-0.3 pix."
+    ],
+    [
+      8235306,
+      "VALIDATE R 4POINT 0 RIGHT  at 400,300  OFFSET 0.65 deg.  -17.0,18.1 pix."
+    ],
+    [
+      8235306,
+      "VALIDATE R 4POINT 1 RIGHT  at 400,51  OFFSET 0.90 deg.  34.2,3.6 pix."
+    ],
+    [
+      8235306,
+      "VALIDATE R 4POINT 2 RIGHT  at 400,549  OFFSET 0.53 deg.  9.0,18.0 pix."
+    ],
+    [
+      8235306,
+      "VALIDATE R 4POINT 3 RIGHT  at 48,300  OFFSET 0.75 deg.  25.4,-13.3 pix."
+    ],
+    [
+      8235306,
+      "VALIDATE R 4POINT 4 RIGHT  at 752,300  OFFSET 1.63 deg.  51.4,-35.3 pix."
+    ],
+    [
+      8241231,
+      "NO Reply is disabled for function eyelink_cal_result"
+    ],
+    [
+      8260868,
+      "ET: start recording"
+    ],
+    [
+      8260872,
+      "RECCFG CR 1000 2 0 R"
+    ],
+    [
+      8260872,
+      "ELCLCFG TOWER"
+    ],
+    [
+      8260872,
+      "GAZE_COORDS 0.00 0.00 800.00 600.00"
+    ],
+    [
+      8260872,
+      "THRESHOLDS R 103 203"
+    ],
+    [
+      8260872,
+      "ELCL_PROC ELLIPSE  (5)"
+    ],
+    [
+      8260872,
+      "ELCL_EFIT_PARAMS 1.01 4.00  0.15 0.05  0.65 0.65  0.00 0.00 0.30"
+    ],
+    [
+      8260873,
+      "!MODE RECORD CR 1000 2 0 R"
+    ],
+    [
+      8261370,
+      "ET: stop recording"
+    ],
+    [
+      8261372,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8261372,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8261373,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8261373,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8266366,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8266367,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8266367,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8266367,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8271367,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8271367,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8271367,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8271368,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8276366,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8276366,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8276366,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8276366,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8281366,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8281367,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8281367,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8281367,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8286367,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8286367,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8286368,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8286368,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8291368,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8291369,
+      "ET: dot moved up!"
+    ],
+    [
+      8296384,
+      "ET: dot moved left!"
+    ],
+    [
+      8301400,
+      "ET: dot moved right!"
+    ],
+    [
+      8306417,
+      "ET: dot moved down!"
+    ],
+    [
+      8311418,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8311419,
+      "ET: dot moved down!"
+    ],
+    [
+      8316433,
+      "ET: dot moved left!"
+    ],
+    [
+      8321434,
+      "ET: dot moved up!"
+    ],
+    [
+      8326434,
+      "ET: dot moved right!"
+    ],
+    [
+      8331436,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8331437,
+      "ET: dot moved left!"
+    ],
+    [
+      8336451,
+      "ET: dot moved up!"
+    ],
+    [
+      8341451,
+      "ET: dot moved right!"
+    ],
+    [
+      8346468,
+      "ET: dot moved down!"
+    ],
+    [
+      8351468,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8351468,
+      "ET: dot moved right!"
+    ],
+    [
+      8356487,
+      "ET: dot moved left!"
+    ],
+    [
+      8361501,
+      "ET: dot moved down!"
+    ],
+    [
+      8366503,
+      "ET: dot moved up!"
+    ],
+    [
+      8371519,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8371519,
+      "ET: dot moved right!"
+    ],
+    [
+      8376535,
+      "ET: dot moved left!"
+    ],
+    [
+      8381551,
+      "ET: dot moved down!"
+    ],
+    [
+      8386552,
+      "ET: dot moved up!"
+    ],
+    [
+      8391569,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8391569,
+      "ET: dot moved right!"
+    ],
+    [
+      8396586,
+      "ET: dot moved down!"
+    ],
+    [
+      8401602,
+      "ET: dot moved up!"
+    ],
+    [
+      8406602,
+      "ET: dot moved left!"
+    ],
+    [
+      8411604,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8411604,
+      "ET: dot moved right!"
+    ],
+    [
+      8416619,
+      "ET: dot moved left!"
+    ],
+    [
+      8421619,
+      "ET: dot moved up!"
+    ],
+    [
+      8426636,
+      "ET: dot moved down!"
+    ],
+    [
+      8431653,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8431654,
+      "ET: dot moved left!"
+    ],
+    [
+      8436670,
+      "ET: dot moved right!"
+    ],
+    [
+      8441686,
+      "ET: dot moved up!"
+    ],
+    [
+      8446703,
+      "ET: dot moved down!"
+    ],
+    [
+      8451720,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8451720,
+      "ET: dot moved up!"
+    ],
+    [
+      8456736,
+      "ET: dot moved left!"
+    ],
+    [
+      8461737,
+      "ET: dot moved right!"
+    ],
+    [
+      8466753,
+      "ET: dot moved down!"
+    ],
+    [
+      8471770,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8471770,
+      "ET: dot moved down!"
+    ],
+    [
+      8476770,
+      "ET: dot moved left!"
+    ],
+    [
+      8481787,
+      "ET: dot moved up!"
+    ],
+    [
+      8486804,
+      "ET: dot moved right!"
+    ],
+    [
+      8491821,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8491821,
+      "ET: dot moved down!"
+    ],
+    [
+      8496838,
+      "ET: dot moved right!"
+    ],
+    [
+      8501854,
+      "ET: dot moved left!"
+    ],
+    [
+      8506870,
+      "ET: dot moved up!"
+    ],
+    [
+      8511871,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8511871,
+      "ET: dot moved down!"
+    ],
+    [
+      8516888,
+      "ET: dot moved up!"
+    ],
+    [
+      8521904,
+      "ET: dot moved left!"
+    ],
+    [
+      8526920,
+      "ET: dot moved right!"
+    ],
+    [
+      8531923,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8531923,
+      "ET: dot moved down!"
+    ],
+    [
+      8536938,
+      "ET: dot moved left!"
+    ],
+    [
+      8541938,
+      "ET: dot moved right!"
+    ],
+    [
+      8546954,
+      "ET: dot moved up!"
+    ],
+    [
+      8551972,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8551972,
+      "ET: dot moved left!"
+    ],
+    [
+      8556988,
+      "ET: dot moved down!"
+    ],
+    [
+      8561988,
+      "ET: dot moved right!"
+    ],
+    [
+      8567005,
+      "ET: dot moved up!"
+    ],
+    [
+      8572007,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8572007,
+      "ET: dot moved down!"
+    ],
+    [
+      8577022,
+      "ET: dot moved right!"
+    ],
+    [
+      8582039,
+      "ET: dot moved up!"
+    ],
+    [
+      8587055,
+      "ET: dot moved left!"
+    ],
+    [
+      8592056,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8592057,
+      "ET: dot moved down!"
+    ],
+    [
+      8597072,
+      "ET: dot moved up!"
+    ],
+    [
+      8602072,
+      "ET: dot moved left!"
+    ],
+    [
+      8607073,
+      "ET: dot moved right!"
+    ],
+    [
+      8612089,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8612090,
+      "ET: dot moved up!"
+    ],
+    [
+      8617106,
+      "ET: dot moved left!"
+    ],
+    [
+      8622122,
+      "ET: dot moved down!"
+    ],
+    [
+      8627123,
+      "ET: dot moved right!"
+    ],
+    [
+      8632141,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8632141,
+      "ET: dot moved right!"
+    ],
+    [
+      8637156,
+      "ET: dot moved left!"
+    ],
+    [
+      8642156,
+      "ET: dot moved down!"
+    ],
+    [
+      8647173,
+      "ET: dot moved up!"
+    ],
+    [
+      8652190,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8652190,
+      "ET: dot moved left!"
+    ],
+    [
+      8657206,
+      "ET: dot moved up!"
+    ],
+    [
+      8662208,
+      "ET: dot moved right!"
+    ],
+    [
+      8667224,
+      "ET: dot moved down!"
+    ],
+    [
+      8672240,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8672240,
+      "ET: dot moved up!"
+    ],
+    [
+      8677257,
+      "ET: dot moved down!"
+    ],
+    [
+      8682274,
+      "ET: dot moved right!"
+    ],
+    [
+      8687274,
+      "ET: dot moved left!"
+    ],
+    [
+      8692292,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8692292,
+      "ET: dot moved down!"
+    ],
+    [
+      8697307,
+      "ET: dot moved left!"
+    ],
+    [
+      8702307,
+      "ET: dot moved right!"
+    ],
+    [
+      8707325,
+      "ET: dot moved up!"
+    ],
+    [
+      8712342,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8712342,
+      "ET: dot moved up!"
+    ],
+    [
+      8717358,
+      "ET: dot moved left!"
+    ],
+    [
+      8722375,
+      "ET: dot moved down!"
+    ],
+    [
+      8727392,
+      "ET: dot moved right!"
+    ],
+    [
+      8732408,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8732409,
+      "ET: dot moved right!"
+    ],
+    [
+      8737424,
+      "ET: dot moved down!"
+    ],
+    [
+      8742425,
+      "ET: dot moved up!"
+    ],
+    [
+      8747425,
+      "ET: dot moved left!"
+    ],
+    [
+      8752442,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8752443,
+      "ET: dot moved up!"
+    ],
+    [
+      8757458,
+      "ET: dot moved right!"
+    ],
+    [
+      8762475,
+      "ET: dot moved down!"
+    ],
+    [
+      8767475,
+      "ET: dot moved left!"
+    ],
+    [
+      8772492,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8772493,
+      "ET: dot moved up!"
+    ],
+    [
+      8777509,
+      "ET: dot moved right!"
+    ],
+    [
+      8782525,
+      "ET: dot moved left!"
+    ],
+    [
+      8787526,
+      "ET: dot moved down!"
+    ],
+    [
+      8792543,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8792543,
+      "ET: dot moved right!"
+    ],
+    [
+      8797558,
+      "ET: dot moved up!"
+    ],
+    [
+      8802559,
+      "ET: dot moved down!"
+    ],
+    [
+      8807560,
+      "ET: dot moved left!"
+    ],
+    [
+      8812576,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8812576,
+      "ET: dot moved down!"
+    ],
+    [
+      8817593,
+      "ET: dot moved left!"
+    ],
+    [
+      8822593,
+      "ET: dot moved up!"
+    ],
+    [
+      8827610,
+      "ET: dot moved right!"
+    ],
+    [
+      8832627,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8832627,
+      "ET: dot moved left!"
+    ],
+    [
+      8837643,
+      "ET: dot moved up!"
+    ],
+    [
+      8842660,
+      "ET: dot moved right!"
+    ],
+    [
+      8847661,
+      "ET: dot moved down!"
+    ],
+    [
+      8852677,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8852678,
+      "ET: dot moved up!"
+    ],
+    [
+      8857694,
+      "ET: dot moved left!"
+    ],
+    [
+      8862694,
+      "ET: dot moved right!"
+    ],
+    [
+      8867694,
+      "ET: dot moved down!"
+    ],
+    [
+      8872695,
+      "ET: Start routine 'dots'"
+    ],
+    [
+      8872695,
+      "ET: dot moved left!"
+    ],
+    [
+      8877711,
+      "ET: dot moved up!"
+    ],
+    [
+      8882728,
+      "ET: dot moved down!"
+    ],
+    [
+      8887744,
+      "ET: dot moved right!"
+    ],
+    [
+      8892745,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8892746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8892746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8892746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8897746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8897746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8897746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8897747,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8902745,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8902745,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8902746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8902746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8907745,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8907746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8907746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8907746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8912746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8912747,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8912748,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8912748,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8917746,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8917747,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8917748,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8917749,
+      "ET: Start routine 'dot'"
+    ],
+    [
+      8922745,
+      "ET: Prepare to start routine 'end'"
+    ],
+    [
+      8946364,
+      "ET: eye tracker stopped"
+    ]
+  ],
+  "StartTimestamp": 8260868,
+  "StartTime": 8260868,
+  "FirstSampleTimestamp": 8260873,
+  "LastSampleTimestamp": 8923743,
+  "RecordedEye": "right",
+  "ScreenAOIDefinition": [
+    "screen",
+    [
+      0,
+      800,
+      0,
+      600
+    ]
+  ],
+  "SourceEDF": {
+    "path": "../../../derivatives/mreye-et-originals/sub-0027/MID27466_fixed_dot-16_grid_T1w.EDF",
+    "size_bytes": 7613962,
+    "sha256": "cb5f3e2b2ea11af4c3259c2c6b78af50337cba8fca1afa305fb4c1187a001f37"
+  },
+  "TimestampUnits": "raw EyeLink tracker milliseconds, unchanged",
+  "CoordinateCleaning": "Original S1 bounds: x in [0,800], y in (0,600]; EyeLink missing sentinel to NaN; no rows removed"
+}

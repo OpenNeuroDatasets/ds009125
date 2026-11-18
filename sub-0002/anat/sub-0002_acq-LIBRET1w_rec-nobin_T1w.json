@@ -1,0 +1,17 @@
+{
+  "SkullStripped": false,
+  "Description": "T1w all-readout MRI volume.",
+  "Contrast": "T1w",
+  "ReconstructionRole": "nobin",
+  "IQMMasks": {
+    "tissues": "bids:masks:sub-0002/anat/sub-0002_acq-LIBRET1w_rec-nobin_desc-tissues_dseg.nii.gz",
+    "sides": "bids:masks:sub-0002/anat/sub-0002_acq-LIBRET1w_rec-nobin_desc-sides_dseg.nii.gz",
+    "background": "bids:masks:sub-0002/anat/sub-0002_acq-LIBRET1w_rec-nobin_desc-background_mask.nii.gz",
+    "orbitalcrop": "bids:masks:sub-0002/anat/sub-0002_acq-LIBRET1w_rec-nobin_desc-orbitalcrop_mask.nii.gz",
+    "envelopeleft": "bids:masks:sub-0002/anat/sub-0002_acq-LIBRET1w_rec-nobin_desc-envelopeleft_mask.nii.gz",
+    "enveloperight": "bids:masks:sub-0002/anat/sub-0002_acq-LIBRET1w_rec-nobin_desc-enveloperight_mask.nii.gz",
+    "envelopebilateral": "bids:masks:sub-0002/anat/sub-0002_acq-LIBRET1w_rec-nobin_desc-envelopebilateral_mask.nii.gz"
+  },
+  "AcquisitionMID": "MID00481",
+  "SessionIdentityStatus": "not established; no session entity invented"
+}

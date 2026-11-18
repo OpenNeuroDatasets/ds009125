@@ -1,0 +1,24 @@
+{
+  "participant_id": {
+    "Description": "Coded participant identifier: sub-0001 through sub-0050 for the main cohort, and sub-pilot01/sub-pilot02 for the two pilot-only participants."
+  },
+  "Description": "Membership of the combined dataset: 50 main-cohort and two pilot-only participants.",
+  "age": {
+    "Description": "Main-cohort age at MRI acquisition, calculated as acquisition year minus birth year; birth month/day are not used. Pilot ages were not provided.",
+    "Units": "year"
+  },
+  "sex": {
+    "Description": "Main-cohort sex recorded in the study participant log. Pilot sex was not provided.",
+    "Levels": {
+      "female": "Female",
+      "male": "Male"
+    }
+  },
+  "cohort": {
+    "Description": "Study cohort; pilot participants are distinct from the 50-participant main cohort.",
+    "Levels": {
+      "main": "Main cohort",
+      "pilot": "Pilot-only participant"
+    }
+  }
+}

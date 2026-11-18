@@ -1,0 +1,133 @@
+routine	direction	start_ms	stop_ms	source
+1	center	6539.0	11545.0	center routine message
+2	center	11545.0	16546.0	center routine message
+3	center	16546.0	21545.0	center routine message
+4	center	21545.0	26545.0	center routine message
+5	center	26545.0	31545.0	center routine message
+6	center	31545.0	36549.0	center routine message
+7	right	36549.0	41546.0	literal EDF direction message
+7	up	41546.0	46563.0	literal EDF direction message
+7	down	46563.0	51563.0	literal EDF direction message
+7	left	51563.0	56580.0	literal EDF direction message
+8	up	56580.0	61596.0	literal EDF direction message
+8	down	61596.0	66596.0	literal EDF direction message
+8	left	66596.0	71612.0	literal EDF direction message
+8	right	71612.0	76614.0	literal EDF direction message
+9	down	76614.0	81630.0	literal EDF direction message
+9	left	81630.0	86646.0	literal EDF direction message
+9	right	86646.0	91647.0	literal EDF direction message
+9	up	91647.0	96665.0	literal EDF direction message
+10	up	96665.0	101680.0	literal EDF direction message
+10	right	101680.0	106698.0	literal EDF direction message
+10	left	106698.0	111714.0	literal EDF direction message
+10	down	111714.0	116731.0	literal EDF direction message
+11	left	116731.0	121747.0	literal EDF direction message
+11	up	121747.0	126765.0	literal EDF direction message
+11	down	126765.0	131780.0	literal EDF direction message
+11	right	131780.0	136782.0	literal EDF direction message
+12	left	136783.0	141798.0	literal EDF direction message
+12	right	141798.0	146798.0	literal EDF direction message
+12	down	146798.0	151814.0	literal EDF direction message
+12	up	151814.0	156832.0	literal EDF direction message
+13	down	156832.0	161848.0	literal EDF direction message
+13	left	161848.0	166865.0	literal EDF direction message
+13	up	166865.0	171865.0	literal EDF direction message
+13	right	171865.0	176882.0	literal EDF direction message
+14	right	176883.0	181898.0	literal EDF direction message
+14	left	181898.0	186899.0	literal EDF direction message
+14	up	186899.0	191916.0	literal EDF direction message
+14	down	191916.0	196932.0	literal EDF direction message
+15	left	196932.0	201948.0	literal EDF direction message
+15	right	201948.0	206966.0	literal EDF direction message
+15	down	206966.0	211983.0	literal EDF direction message
+15	up	211983.0	216999.0	literal EDF direction message
+16	right	217000.0	222015.0	literal EDF direction message
+16	left	222015.0	227032.0	literal EDF direction message
+16	up	227032.0	232049.0	literal EDF direction message
+16	down	232049.0	237067.0	literal EDF direction message
+17	right	237067.0	242083.0	literal EDF direction message
+17	down	242083.0	247099.0	literal EDF direction message
+17	left	247099.0	252100.0	literal EDF direction message
+17	up	252100.0	257117.0	literal EDF direction message
+18	left	257118.0	262134.0	literal EDF direction message
+18	down	262134.0	267149.0	literal EDF direction message
+18	right	267149.0	272150.0	literal EDF direction message
+18	up	272150.0	277167.0	literal EDF direction message
+19	up	277167.0	282183.0	literal EDF direction message
+19	right	282183.0	287184.0	literal EDF direction message
+19	down	287184.0	292200.0	literal EDF direction message
+19	left	292200.0	297202.0	literal EDF direction message
+20	up	297202.0	302217.0	literal EDF direction message
+20	right	302217.0	307217.0	literal EDF direction message
+20	down	307217.0	312217.0	literal EDF direction message
+20	left	312217.0	317235.0	literal EDF direction message
+21	down	317235.0	322251.0	literal EDF direction message
+21	right	322251.0	327268.0	literal EDF direction message
+21	left	327268.0	332269.0	literal EDF direction message
+21	up	332269.0	337286.0	literal EDF direction message
+22	left	337286.0	342301.0	literal EDF direction message
+22	down	342301.0	347318.0	literal EDF direction message
+22	right	347318.0	352335.0	literal EDF direction message
+22	up	352335.0	357337.0	literal EDF direction message
+23	right	357337.0	362351.0	literal EDF direction message
+23	left	362351.0	367353.0	literal EDF direction message
+23	down	367353.0	372369.0	literal EDF direction message
+23	up	372369.0	377386.0	literal EDF direction message
+24	right	377386.0	382403.0	literal EDF direction message
+24	up	382403.0	387403.0	literal EDF direction message
+24	down	387403.0	392419.0	literal EDF direction message
+24	left	392419.0	397420.0	literal EDF direction message
+25	up	397420.0	402436.0	literal EDF direction message
+25	right	402436.0	407436.0	literal EDF direction message
+25	left	407436.0	412452.0	literal EDF direction message
+25	down	412452.0	417470.0	literal EDF direction message
+26	right	417471.0	422486.0	literal EDF direction message
+26	left	422486.0	427503.0	literal EDF direction message
+26	down	427503.0	432520.0	literal EDF direction message
+26	up	432520.0	437537.0	literal EDF direction message
+27	left	437537.0	442556.0	literal EDF direction message
+27	up	442556.0	447570.0	literal EDF direction message
+27	down	447570.0	452570.0	literal EDF direction message
+27	right	452570.0	457572.0	literal EDF direction message
+28	up	457573.0	462587.0	literal EDF direction message
+28	left	462587.0	467605.0	literal EDF direction message
+28	right	467605.0	472605.0	literal EDF direction message
+28	down	472605.0	477621.0	literal EDF direction message
+29	left	477622.0	482638.0	literal EDF direction message
+29	right	482638.0	487654.0	literal EDF direction message
+29	down	487654.0	492670.0	literal EDF direction message
+29	up	492670.0	497672.0	literal EDF direction message
+30	left	497672.0	502688.0	literal EDF direction message
+30	up	502688.0	507691.0	literal EDF direction message
+30	down	507691.0	512704.0	literal EDF direction message
+30	right	512704.0	517722.0	literal EDF direction message
+31	up	517722.0	522739.0	literal EDF direction message
+31	down	522739.0	527755.0	literal EDF direction message
+31	left	527755.0	532755.0	literal EDF direction message
+31	right	532755.0	537756.0	literal EDF direction message
+32	right	537756.0	542771.0	literal EDF direction message
+32	down	542771.0	547789.0	literal EDF direction message
+32	left	547789.0	552806.0	literal EDF direction message
+32	up	552806.0	557822.0	literal EDF direction message
+33	left	557822.0	562840.0	literal EDF direction message
+33	up	562840.0	567855.0	literal EDF direction message
+33	down	567855.0	572872.0	literal EDF direction message
+33	right	572872.0	577889.0	literal EDF direction message
+34	down	577890.0	582907.0	literal EDF direction message
+34	right	582907.0	587922.0	literal EDF direction message
+34	left	587922.0	592924.0	literal EDF direction message
+34	up	592924.0	597941.0	literal EDF direction message
+35	down	597941.0	602957.0	literal EDF direction message
+35	left	602957.0	607973.0	literal EDF direction message
+35	up	607973.0	612990.0	literal EDF direction message
+35	right	612990.0	618008.0	literal EDF direction message
+36	right	618008.0	623023.0	literal EDF direction message
+36	left	623023.0	628040.0	literal EDF direction message
+36	down	628040.0	633041.0	literal EDF direction message
+36	up	633041.0	638058.0	literal EDF direction message
+37	center	638058.0	643059.0	center routine message
+38	center	643059.0	648059.0	center routine message
+39	center	648059.0	653059.0	center routine message
+40	center	653059.0	658058.0	center routine message
+41	center	658058.0	663058.0	center routine message
+42	center	663058.0	668058.0	center routine message

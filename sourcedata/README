@@ -1,0 +1,7 @@
+Source data included in this release.
+
+Main cohort: sub-XXXX/et/ contains primary eye-tracking tables and JSON metadata. Main-cohort scanner DAT files are not included.
+Pilot cohort: sub-pilotNN/ses-NN/rawdata/ contains 13 header-deidentified DAT archives and available VIBE DICOM references; sub-pilotNN/ses-NN/et/ contains ET tables and metadata. Pilot measurement records are preserved.
+pulseq/: seven distinct shared study and pilot sequence files.
+
+Associated EDF release copies are in ../derivatives/mreye-et-originals/. Core acquisition and recording indexes are in ../code/organization/. Main-cohort 0038 Track is partial. A later version is planned to add the 330 main-cohort DAT archives after header de-identification and verified recompression.

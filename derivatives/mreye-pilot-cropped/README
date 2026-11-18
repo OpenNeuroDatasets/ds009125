@@ -1,0 +1,3 @@
+Existing pilot cropped/registered images and image-bound masks. Stored voxel arrays and source affines are preserved, without new registration or cropping. Variant names retain their original numerical labels; those labels have not been independently revalidated. Anatomical meanings of numerical segmentation labels were not documented in the supplied pilot folder.
+
+The pilot01 session01 VIBE comparison images use the available session02 scanner reference. They are derived comparison images, not an independently acquired session01 VIBE scan.

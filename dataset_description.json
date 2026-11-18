@@ -1,0 +1,49 @@
+{
+  "Name": "2.0 MR-Eye ophthalmic MRI — 52 participants",
+  "BIDSVersion": "1.11.2",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "MR-Eye T1w/T2w image preparation",
+      "Description": "T1-weighted and T2-weighted anatomical MRI images in NIfTI format."
+    },
+    {
+      "Name": "MR-Eye-Track reconstruction",
+      "Description": "MR-Eye-Track magnitude images in NIfTI format, comprising stimulus-direction, measured-gaze and all-readout reconstructions."
+    },
+    {
+      "Name": "MR-Eye pilot image export",
+      "Description": "Stored pilot numeric reconstructions and scanner references exported to NIfTI; existing cropped images retain their stored voxel arrays and affines."
+    }
+  ],
+  "DatasetLinks": {
+    "images": ".",
+    "track": ".",
+    "masks": "derivatives/mreye-iqm-masks"
+  },
+  "Description": "Initial release containing reconstructed anatomical and MR-Eye-Track MRI, eye-tracking measurements, masks, calibration arrays and sequence definitions for the 50-participant main cohort and two pilot-only participants. Main-cohort images use sub-XXXX/anat/; pilot images use sub-pilotNN/ses-NN/anat/. Main-cohort scanner DAT archives are not included in this release; a later version is planned after header de-identification and verified recompression. The 13 sanitized pilot DAT archives and available VIBE DICOM references are included under sourcedata/sub-pilotNN/ses-NN/rawdata/. Main-cohort ET exports use sourcedata/sub-XXXX/et/; pilot exports use the corresponding participant/session et/ folders. Associated EDF release copies, masks and calibration arrays are under derivatives/. Of 153 ET exports, 152 are complete and the main-cohort 0038 Track export is partial.",
+  "Authors": [
+    "Yiwei Jia",
+    "Bastien Milani",
+    "Jaime Barranco",
+    "Berk Can Açikgöz",
+    "Mauro Leidi",
+    "Eleonora Fornari",
+    "Jean-Baptiste Ledoux",
+    "Helene Vitali",
+    "Oscar Esteban",
+    "Jessica A.M. Bastiaansen",
+    "Benedetta Franceschiello"
+  ],
+  "License": "CC0",
+  "Funding": [
+    "Swiss National Science Foundation grant 220433 (PI: Franceschiello)",
+    "University of Applied Sciences and Arts Western Switzerland (HES-SO), grant 129816/IA-RECHERCHE23-19 (PIs: Franceschiello, Raileanu)"
+  ],
+  "EthicsApprovals": [
+    "Swiss BASEC protocol 2024-00165; positive local Ethics Committee approval on 27 June 2024."
+  ],
+  "ReferencesAndLinks": [
+    "https://mattechlab.github.io/sops/debi/data-collection/data-collection_DEBI_protocol/"
+  ]
+}

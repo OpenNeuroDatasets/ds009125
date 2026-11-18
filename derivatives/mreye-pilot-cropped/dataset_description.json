@@ -1,0 +1,38 @@
+{
+  "Name": "MR-Eye pilot mreye-pilot-cropped",
+  "BIDSVersion": "1.11.2",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "Existing MR-Eye pilot data products"
+    }
+  ],
+  "DatasetLinks": {
+    "images": "../.."
+  },
+  "Description": "Existing cropped or registered pilot images and their stored masks; data values and affines are retained. Original numerical variant labels are not independently revalidated.",
+  "Authors": [
+    "Yiwei Jia",
+    "Bastien Milani",
+    "Jaime Barranco",
+    "Berk Can Açikgöz",
+    "Mauro Leidi",
+    "Eleonora Fornari",
+    "Jean-Baptiste Ledoux",
+    "Helene Vitali",
+    "Oscar Esteban",
+    "Jessica A.M. Bastiaansen",
+    "Benedetta Franceschiello"
+  ],
+  "License": "CC0",
+  "Funding": [
+    "Swiss National Science Foundation grant 220433 (PI: Franceschiello)",
+    "University of Applied Sciences and Arts Western Switzerland (HES-SO), grant 129816/IA-RECHERCHE23-19 (PIs: Franceschiello, Raileanu)"
+  ],
+  "EthicsApprovals": [
+    "Swiss BASEC protocol 2024-00165; positive local Ethics Committee approval on 27 June 2024."
+  ],
+  "ReferencesAndLinks": [
+    "https://mattechlab.github.io/sops/debi/data-collection/data-collection_DEBI_protocol/"
+  ]
+}
